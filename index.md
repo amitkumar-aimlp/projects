@@ -2,122 +2,74 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Markdown Guide: Syntax and Examples
 
-[Link to another page](./another-page.html).
+Pass
 
-There should be whitespace between paragraphs.
+# Python Basics: Standard and Third-Party Libraries
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Pass
 
-# Header 1
+# Numpy
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Pass
 
-## Header 2
+# Pandas
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Pass
 
-### Header 3
+# Matplotlib
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Pass
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Basic Statistics
 
-#### Header 4
+Pass
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Applied Statistics
 
-##### Header 5
+Pass
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Supervised Learning
 
-###### Header 6
+Pass
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+# Unsupervised Learning
 
-### There's a horizontal rule below this.
+Pass
 
-* * *
+# Ensemble Techniques
 
-### Here is an unordered list:
+Pass
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+# Feature Engineering, Model Selection
 
-### And an ordered list:
+Pass
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# Recommendation Systems
 
-### And a nested list:
+Pass
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+# Deep Learning
 
-### Small image
+Pass
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+# Natural Language Processing-1
 
-### Large image
+Pass
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Natural Language Processing-2
 
+Pass
 
-### Definition lists can be used with HTML syntax.
+# Computer Vision-1
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Pass
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# Computer Vision-2
 
-```
-The final element.
-```
+Pass
+
+# Computer Vision-3
+
+Pass
