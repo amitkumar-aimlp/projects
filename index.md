@@ -12,15 +12,7 @@ Pass
 
 Pass
 
-# Numpy
-
-Pass
-
-# Pandas
-
-Pass
-
-# Matplotlib
+# Numpy, Pandas, Matplotlib, Seaborn, Plotly
 
 Pass
 
