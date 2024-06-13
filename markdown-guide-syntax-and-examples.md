@@ -32,6 +32,7 @@ description: Learn Markdown - A simple, versatile language for creating well-str
 18. **Inline Links and References**: Markdown supports both inline links and reference-style links, making it flexible for different document structures.
 19. **Table of Contents**: Many Markdown processors can automatically generate a table of contents based on the headers in the document.
 20. **Metadata**: You can include metadata in your Markdown files using YAML front matter, which is especially useful for static site generators.
+
     ```markdown
     ---
     title: "My Document"
@@ -39,17 +40,17 @@ description: Learn Markdown - A simple, versatile language for creating well-str
     date: "2024-06-13"
     ---
     ```
-21. **Slide Decks**: Tools like Reveal.js or Marp can convert Markdown documents into slide presentations, making it a powerful tool for creating presentations.
-22. **Collapsible Sections**: Some Markdown flavors support collapsible sections, which are useful for hiding detailed content or spoilers.
-23. **Embedded Content**: You can embed content like videos, tweets, and other media using various Markdown extensions or HTML.
-24. **Inline Styling**: While Markdown itself has limited styling options, you can include inline CSS or use HTML to style specific elements.
-25. **Citation and Bibliography**: Markdown extensions like Pandoc allow for academic writing with support for citations and bibliographies.
-26. **Keyboard Shortcuts**: Many Markdown editors support keyboard shortcuts for formatting, making the writing process faster and more efficient.
-27. **Markdown Variants**: Variants like MultiMarkdown and CommonMark extend Markdown's functionality, adding features like tables, footnotes, and more robust parsing.
-28. **Export Options**: Markdown documents can be exported to a variety of formats, including PDF, HTML, DOCX, and more using tools like Pandoc.
-29. **Version Control Friendly**: Since Markdown is plain text, it integrates well with version control systems like Git, making it easy to track changes and collaborate.
-30. **Lightweight**: Markdown files are lightweight compared to rich text formats, making them quicker to load and easier to manage.
-31. **Versatile Use Cases**: Markdown is used for a wide range of applications, from writing technical documentation and README files to blogging and note-taking.
+22. **Slide Decks**: Tools like Reveal.js or Marp can convert Markdown documents into slide presentations, making it a powerful tool for creating presentations.
+23. **Collapsible Sections**: Some Markdown flavors support collapsible sections, which are useful for hiding detailed content or spoilers.
+24. **Embedded Content**: You can embed content like videos, tweets, and other media using various Markdown extensions or HTML.
+25. **Inline Styling**: While Markdown itself has limited styling options, you can include inline CSS or use HTML to style specific elements.
+26. **Citation and Bibliography**: Markdown extensions like Pandoc allow for academic writing with support for citations and bibliographies.
+27. **Keyboard Shortcuts**: Many Markdown editors support keyboard shortcuts for formatting, making the writing process faster and more efficient.
+28. **Markdown Variants**: Variants like MultiMarkdown and CommonMark extend Markdown's functionality, adding features like tables, footnotes, and more robust parsing.
+29. **Export Options**: Markdown documents can be exported to a variety of formats, including PDF, HTML, DOCX, and more using tools like Pandoc.
+30. **Version Control Friendly**: Since Markdown is plain text, it integrates well with version control systems like Git, making it easy to track changes and collaborate.
+31. **Lightweight**: Markdown files are lightweight compared to rich text formats, making them quicker to load and easier to manage.
+32. **Versatile Use Cases**: Markdown is used for a wide range of applications, from writing technical documentation and README files to blogging and note-taking.
 
 These features make Markdown a powerful and flexible tool for a variety of writing and documentation needs.
 
