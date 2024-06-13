@@ -6,7 +6,13 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 
 # Markdown Guide: Syntax and Examples
 
-Pass
+-**Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
+
+-**Extended Syntax:** Tables, Fenced Code Blocks, Footnotes, Heading IDs, Definition Lists, Strikethrough, Task Lists, Emoji, Highlight, Subscript, Superscript, Automatic URL Linking
+
+-**Hacks:** Underline, Indent, Center, Color, Comments, Admonitions, Image Size, Image Captions, Link Targets, Symbols, Table Formatting, Table of Contents, Videos
+
+[Markdown Guide: Syntax and Examples](./markdown-guide-syntax-and-examples.html).
 
 # Python Basics: Standard and Third-Party Libraries
 
