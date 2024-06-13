@@ -22,15 +22,17 @@ description: Learn Markdown - A simple, versatile language for creating well-str
 12. **Footnotes**: Some Markdown parsers support footnotes, allowing for references and additional information at the bottom of the document.
 13. **Math Support**: With extensions like MathJax or KaTeX, you can include mathematical expressions and formulas in Markdown documents.
 14. **Task Lists**: You can create checklists using Markdown, which is particularly useful in project management and to-do lists:
+    
     ```markdown
     - [x] Task 1
     - [ ] Task 2
     ```
-15. **Diagrams**: Integrations with tools like Mermaid allow for the creation of diagrams and flowcharts directly within Markdown.
-16. **Custom Attributes**: Some implementations allow for custom attributes to be added to elements, such as classes and IDs, enhancing styling and interaction.
-17. **Inline Links and References**: Markdown supports both inline links and reference-style links, making it flexible for different document structures.
-18. **Table of Contents**: Many Markdown processors can automatically generate a table of contents based on the headers in the document.
-19. **Metadata**: You can include metadata in your Markdown files using YAML front matter, which is especially useful for static site generators.
+16. **Diagrams**: Integrations with tools like Mermaid allow for the creation of diagrams and flowcharts directly within Markdown.
+17. **Custom Attributes**: Some implementations allow for custom attributes to be added to elements, such as classes and IDs, enhancing styling and interaction.
+18. **Inline Links and References**: Markdown supports both inline links and reference-style links, making it flexible for different document structures.
+19. **Table of Contents**: Many Markdown processors can automatically generate a table of contents based on the headers in the document.
+20. **Metadata**: You can include metadata in your Markdown files using YAML front matter, which is especially useful for static site generators.
+
     ```markdown
     ---
     title: "My Document"
@@ -38,17 +40,17 @@ description: Learn Markdown - A simple, versatile language for creating well-str
     date: "2024-06-13"
     ---
     ```
-20. **Slide Decks**: Tools like Reveal.js or Marp can convert Markdown documents into slide presentations, making it a powerful tool for creating presentations.
-21. **Collapsible Sections**: Some Markdown flavors support collapsible sections, which are useful for hiding detailed content or spoilers.
-22. **Embedded Content**: You can embed content like videos, tweets, and other media using various Markdown extensions or HTML.
-23. **Inline Styling**: While Markdown itself has limited styling options, you can include inline CSS or use HTML to style specific elements.
-24. **Citation and Bibliography**: Markdown extensions like Pandoc allow for academic writing with support for citations and bibliographies.
-25. **Keyboard Shortcuts**: Many Markdown editors support keyboard shortcuts for formatting, making the writing process faster and more efficient.
-26. **Markdown Variants**: Variants like MultiMarkdown and CommonMark extend Markdown's functionality, adding features like tables, footnotes, and more robust parsing.
-27. **Export Options**: Markdown documents can be exported to a variety of formats, including PDF, HTML, DOCX, and more using tools like Pandoc.
-28. **Version Control Friendly**: Since Markdown is plain text, it integrates well with version control systems like Git, making it easy to track changes and collaborate.
-29. **Lightweight**: Markdown files are lightweight compared to rich text formats, making them quicker to load and easier to manage.
-30. **Versatile Use Cases**: Markdown is used for a wide range of applications, from writing technical documentation and README files to blogging and note-taking.
+22. **Slide Decks**: Tools like Reveal.js or Marp can convert Markdown documents into slide presentations, making it a powerful tool for creating presentations.
+23. **Collapsible Sections**: Some Markdown flavors support collapsible sections, which are useful for hiding detailed content or spoilers.
+24. **Embedded Content**: You can embed content like videos, tweets, and other media using various Markdown extensions or HTML.
+25. **Inline Styling**: While Markdown itself has limited styling options, you can include inline CSS or use HTML to style specific elements.
+26. **Citation and Bibliography**: Markdown extensions like Pandoc allow for academic writing with support for citations and bibliographies.
+27. **Keyboard Shortcuts**: Many Markdown editors support keyboard shortcuts for formatting, making the writing process faster and more efficient.
+28. **Markdown Variants**: Variants like MultiMarkdown and CommonMark extend Markdown's functionality, adding features like tables, footnotes, and more robust parsing.
+29. **Export Options**: Markdown documents can be exported to a variety of formats, including PDF, HTML, DOCX, and more using tools like Pandoc.
+30. **Version Control Friendly**: Since Markdown is plain text, it integrates well with version control systems like Git, making it easy to track changes and collaborate.
+31. **Lightweight**: Markdown files are lightweight compared to rich text formats, making them quicker to load and easier to manage.
+32. **Versatile Use Cases**: Markdown is used for a wide range of applications, from writing technical documentation and README files to blogging and note-taking.
 
 These features make Markdown a powerful and flexible tool for a variety of writing and documentation needs.
 
