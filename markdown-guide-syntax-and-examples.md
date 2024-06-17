@@ -3,7 +3,11 @@ layout: default
 title: Markdown Language - A Comprehensive Guide to Simple and Effective Formatting
 description: Learn Markdown - A simple, versatile language for creating well-structured documents. Master headers, lists, tables, and more. Perfect for writers and developers.
 author: "Amit Kumar"
-date: "2024-01-01"
+date: "2020-01-01"
+categories: [Markdown, Guide, Documentation]
+tags: [Markdown, Syntax, Examples, Guide, Documentation]
+published: true
+permalink: /projects/markdown-guide-syntax-and-examples/
 ---
 
 ## Contents:<!-- omit in toc -->
@@ -88,7 +92,8 @@ This video provides a comprehensive and easy-to-follow guide to mastering Markdo
 3. [Markdown Guide Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 4. [IBM Markdown for Jupyter Notebooks](https://www.ibm.com/docs/en/db2-event-store/2.0.0?topic=notebooks-markdown-jupyter-cheatsheet)
 5. [Useful HTML for Jupyter Notebook - Kaggle](https://www.kaggle.com/code/marcovasquez/useful-html-for-jupyter-notebook)
+6. [Learn markdown in 30 minutes](https://www.youtube.com/watch?v=bTVIMt3XllM)
 
-> ## What we think, we become.
+> ### What we think, we become.
 >
 > -Buddha
