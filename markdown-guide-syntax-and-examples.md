@@ -2,13 +2,15 @@
 layout: default
 title: Markdown Language - A Comprehensive Guide to Simple and Effective Formatting
 description: Learn Markdown - A simple, versatile language for creating well-structured documents. Master headers, lists, tables, and more. Perfect for writers and developers.
+author: "Amit Kumar"
+date: "2024-01-01"
 ---
 
 ## Contents:<!-- omit in toc -->
 
 - [Markdown Guide: Syntax and Examples](#markdown-guide-syntax-and-examples)
 - [Some Special Features of Markdown Language](#some-special-features-of-markdown-language)
-- [Videos: Markdown in an Hour](#videos-markdown-in-an-hour)
+- [Videos: Learn Markdown in 30 Minutes!](#videos-learn-markdown-in-30-minutes)
 - [References](#references)
 
 ## Markdown Guide: Syntax and Examples
@@ -71,9 +73,13 @@ Reference and Details: [Markdown Guide: Syntax and Examples](https://github.com/
 
 These features make Markdown a powerful and flexible tool for a variety of writing and documentation needs.
 
-## Videos: Markdown in an Hour
+## Videos: Learn Markdown in 30 Minutes!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bTVIMt3XllM?si=I7c73c2PW1Ie_ZQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This video provides a comprehensive and easy-to-follow guide to mastering Markdown in just 30 minutes. Ideal for beginners, it covers essential syntax and practical examples, helping viewers quickly gain proficiency in writing and formatting documents using Markdown. Whether you're creating README files, writing blog posts, or documenting code, this tutorial will equip you with the skills you need.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe src="https://www.youtube.com/embed/bTVIMt3XllM" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+</div>
 
 ## References
 
