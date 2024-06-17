@@ -7,7 +7,6 @@ date: "2020-01-01"
 categories: [Markdown, Guide, Documentation]
 tags: [Markdown, Syntax, Examples, Guide, Documentation]
 published: true
-permalink: /projects/markdown-guide-syntax-and-examples/
 ---
 
 ## Contents:<!-- omit in toc -->
