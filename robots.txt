@@ -1,0 +1,9 @@
+# robots.txt file for https://amitkumar-aimlp.github.io/projects
+# Time to focus over the rise of machines...
+
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /.gitignore/
+
+Sitemap: https://amitkumar-aimlp.github.io/projects/sitemap.xml
