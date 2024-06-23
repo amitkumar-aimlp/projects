@@ -4,7 +4,7 @@ title: Artificial Intelligence and Machine Learning (AIML) Projects
 description: Topics Covered - Artificial Intelligence, Machine Learning, Data Science
 ---
 
-# Markdown Guide: Syntax and Examples
+# Markdown Language: Syntax and Examples
 
 - **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
 
@@ -12,7 +12,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 
 - **Hacks:** Underline, Indent, Center, Color, Comments, Admonitions, Image Size, Image Captions, Link Targets, Symbols, Table Formatting, Table of Contents, Videos
 
-  Reference and Details: [Markdown Guide: Syntax and Examples](./markdown-guide-syntax-and-examples.html).
+  Reference and Details: [Markdown Language: Syntax and Examples](./markdown-language-syntax-and-examples.html).
 
 # Python Basics: Standard and Third-Party Libraries
 
