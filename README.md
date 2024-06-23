@@ -1,10 +1,8 @@
 # Artificial Intelligence and Machine Learning (AIML) Projects
 
-# Topics Covered - Artificial Intelligence, Machine Learning, Data Science
+## Topics Covered - Artificial Intelligence, Machine Learning, Data Science
 
----
-
-# Markdown Language: Syntax and Examples
+### Markdown Language: Syntax and Examples
 
 - **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
 
