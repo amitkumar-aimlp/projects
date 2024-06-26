@@ -9,12 +9,17 @@
 
 <url>
   <loc>https://amitkumar-aimlp.github.io/projects/</loc>
-  <lastmod>2024-06-17T16:27:08+00:00</lastmod>
+  <lastmod>2024-06-26T15:34:31+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples.html</loc>
-  <lastmod>2024-06-17T16:27:08+00:00</lastmod>
+  <lastmod>2024-06-26T15:34:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples.html</loc>
+  <lastmod>2024-06-26T15:34:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
