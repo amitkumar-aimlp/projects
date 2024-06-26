@@ -27,6 +27,8 @@ published: true
 ![python-applications](/assets/python/python-applications.png)
 Python, created by Guido van Rossum and first released in 1991, has become one of the most popular programming languages in the world. Its simplicity, readability, and extensive capabilities have made it a go-to language for both beginners and experienced programmers. Python's philosophy emphasizes code readability and simplicity, which has led to a growing community and a vast ecosystem of libraries and frameworks. This article explores Python's versatility across various domains, including web development, data science, automation, scientific computing, and the Internet of Things (IoT).
 
+Reference and Details: [Python Language: Syntax and Examples](https://github.com/amitkumar-aimlp/projects/tree/content/python-language)
+
 ## Key Features of Python
 
 ![python-standard-type-hierarchy](/assets/python/python-standard-type-hierarchy.png)
@@ -94,16 +96,17 @@ Python's versatility and ease of use have made it one of the most popular progra
 
 ## References
 
-1. [Python Official Website](https://www.python.org/)
-2. [Django Official Documentation](https://docs.djangoproject.com/)
-3. [Flask Official Documentation](https://flask.palletsprojects.com/)
-4. [NumPy Documentation](https://numpy.org/doc/)
-5. [Pandas Documentation](https://pandas.pydata.org/docs/)
-6. [TensorFlow Documentation](https://www.tensorflow.org/learn)
-7. [SciPy Documentation](https://docs.scipy.org/doc/scipy/)
-8. [MicroPython Documentation](https://docs.micropython.org/)
-9. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-10. [Towards Data Science - Python Articles](https://towardsdatascience.com/python/home)
+1. [Python Language: Syntax and Examples](https://github.com/amitkumar-aimlp/projects/tree/content/python-language)
+2. [Python Official Website](https://www.python.org/)
+3. [Django Official Documentation](https://docs.djangoproject.com/)
+4. [Flask Official Documentation](https://flask.palletsprojects.com/)
+5. [NumPy Documentation](https://numpy.org/doc/)
+6. [Pandas Documentation](https://pandas.pydata.org/docs/)
+7. [TensorFlow Documentation](https://www.tensorflow.org/learn)
+8. [SciPy Documentation](https://docs.scipy.org/doc/scipy/)
+9. [MicroPython Documentation](https://docs.micropython.org/)
+10. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+11. [Towards Data Science - Python Articles](https://towardsdatascience.com/python/home)
 
 > ### Whatever the mind of man can conceive and believe, it can achieve.
 >
