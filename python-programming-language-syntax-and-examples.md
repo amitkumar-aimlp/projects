@@ -111,3 +111,5 @@ Python's versatility and ease of use have made it one of the most popular progra
 > ### Whatever the mind of man can conceive and believe, it can achieve.
 >
 > -Napoleon Hill
+
+[TOP](#introduction-exploring-the-versatility-of-python)

@@ -96,3 +96,5 @@ This video provides a comprehensive and easy-to-follow guide to mastering Markdo
 > ### What we think, we become.
 >
 > -Buddha
+
+[TOP](#markdown-language-syntax-and-examples)
