@@ -4,6 +4,29 @@ title: Artificial Intelligence and Machine Learning (AIML) Projects
 description: Topics Covered - Artificial Intelligence, Machine Learning, Data Science
 ---
 
+## Contents:<!-- omit in toc -->
+
+<div class="alert alert-success">
+
+- [Markdown Language: Syntax and Examples](#markdown-language-syntax-and-examples)
+- [Python Programming Language: Syntax and Examples](#python-programming-language-syntax-and-examples)
+- [Numpy, Pandas, Matplotlib, Seaborn, Plotly](#numpy-pandas-matplotlib-seaborn-plotly)
+- [Basic Statistics](#basic-statistics)
+- [Applied Statistics](#applied-statistics)
+- [Supervised Learning](#supervised-learning)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Ensemble Techniques](#ensemble-techniques)
+- [Feature Engineering, Model Selection](#feature-engineering-model-selection)
+- [Recommendation Systems](#recommendation-systems)
+- [Deep Learning](#deep-learning)
+- [Natural Language Processing-1](#natural-language-processing-1)
+- [Natural Language Processing-2](#natural-language-processing-2)
+- [Computer Vision-1](#computer-vision-1)
+- [Computer Vision-2](#computer-vision-2)
+- [Computer Vision-3](#computer-vision-3)
+
+</div>
+
 # Markdown Language: Syntax and Examples
 
 1. **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
@@ -85,4 +108,4 @@ Pass
 
 Pass
 
-[TOP](#markdown-language-syntax-and-examples)
+[TOP](#contents)
