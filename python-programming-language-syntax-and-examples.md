@@ -112,4 +112,4 @@ Python's versatility and ease of use have made it one of the most popular progra
 >
 > -Napoleon Hill
 
-[TOP](#introduction-exploring-the-versatility-of-python)
+[TOP](#contents)
