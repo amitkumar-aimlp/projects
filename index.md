@@ -23,14 +23,6 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 - [Computer Vision-2](#computer-vision-2)
 - [Computer Vision-3](#computer-vision-3)
 
-<div class="alert alert-block alert-info">
-<b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
-If it’s a note, you don’t have to include the word “Note”.
-</div>
-
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
-
 # Markdown Language: Syntax and Examples
 
 1. **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML

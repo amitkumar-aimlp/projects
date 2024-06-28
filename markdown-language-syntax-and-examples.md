@@ -97,4 +97,4 @@ This video provides a comprehensive and easy-to-follow guide to mastering Markdo
 >
 > -Buddha
 
-[TOP](#markdown-language-syntax-and-examples)
+[TOP](#contents)
