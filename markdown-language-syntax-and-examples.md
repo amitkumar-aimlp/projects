@@ -24,7 +24,8 @@ Markdown is a lightweight markup language with plain-text formatting syntax desi
 
 Examples of Markdown syntax extend to various other common formatting needs. Links and images are embedded with a clear and simple syntax: `[Link Text](URL)` for links and `![Alt Text](Image URL)` for images. Blockquotes are created using the `>` character, making it easy to format quotations. Code blocks can be included by wrapping text in backticks (`code`) for inline code or triple backticks (`code block`) for blocks of code. Tables, which are more complex in HTML, can be created with relative ease using pipes (`|`) and dashes to define columns and rows. This simplicity and readability make Markdown a popular choice for documentation, readme files, and writing on platforms like GitHub and Reddit.
 
-Reference and Details: [Markdown Language: Syntax and Examples](https://github.com/amitkumar-aimlp/projects/tree/content/markdown-language)
+> [!NOTE]  
+> Reference and Details: [Markdown Language: Syntax and Examples](https://github.com/amitkumar-aimlp/projects/tree/content/markdown-language)
 
 ## Some Special Features of Markdown Language
 

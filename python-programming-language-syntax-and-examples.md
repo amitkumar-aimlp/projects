@@ -27,7 +27,8 @@ published: true
 ![python-applications](/assets/python/python-applications.png)
 Python, created by Guido van Rossum and first released in 1991, has become one of the most popular programming languages in the world. Its simplicity, readability, and extensive capabilities have made it a go-to language for both beginners and experienced programmers. Python's philosophy emphasizes code readability and simplicity, which has led to a growing community and a vast ecosystem of libraries and frameworks. This article explores Python's versatility across various domains, including web development, data science, automation, scientific computing, and the Internet of Things (IoT).
 
-Reference and Details: [Python Language: Syntax and Examples](https://github.com/amitkumar-aimlp/projects/tree/content/python-language)
+> [!NOTE]  
+> Reference and Details: [Python Language: Syntax and Examples](https://github.com/amitkumar-aimlp/projects/tree/content/python-language)
 
 ## Key Features of Python
 
