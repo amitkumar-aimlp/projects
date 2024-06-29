@@ -31,7 +31,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 
 3. **Hacks:** Underline, Indent, Center, Color, Comments, Admonitions, Image Size, Image Captions, Link Targets, Symbols, Table Formatting, Table of Contents, Videos
 
-Reference and Details: [Markdown Language: Syntax and Examples](./markdown-language-syntax-and-examples.html).
+Reference and Details: [Markdown Language: Syntax and Examples](./markdown-language-syntax-and-examples).
 
 # Python Programming Language: Syntax and Examples
 
@@ -46,7 +46,7 @@ Reference and Details: [Markdown Language: Syntax and Examples](./markdown-langu
 9. **Matplotlib**
 10. **Plotly**
 
-Reference and Details: [Python Programming Language: Syntax and Examples](./python-programming-language-syntax-and-examples.html).
+Reference and Details: [Python Programming Language: Syntax and Examples](./python-programming-language-syntax-and-examples).
 
 # Numpy, Pandas, Matplotlib, Seaborn, Plotly
 
