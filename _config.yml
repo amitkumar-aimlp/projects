@@ -5,3 +5,5 @@ show_downloads: true
 google_analytics: G-X29GWR9LQS
 
 theme: jekyll-theme-cayman
+
+permalink: pretty
