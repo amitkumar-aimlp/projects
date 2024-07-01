@@ -22,7 +22,7 @@ published: true
 - [Conclusion](#conclusion)
 - [References](#references)
 
-({% include reading-time.html %})
+{% include reading-time.html %}
 
 ## Introduction: Exploring the Versatility of Python
 
