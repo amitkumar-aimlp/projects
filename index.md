@@ -104,4 +104,8 @@ Pass
 
 Pass
 
-[TOP](#contents)
+---
+
+:date: Published: 2020-01-01; Updated: 2020-05-01
+
+:arrow_up: [TOP](#contents)
