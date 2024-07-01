@@ -113,4 +113,10 @@ Python's versatility and ease of use have made it one of the most popular progra
 >
 > -Napoleon Hill
 
+---
+
+_Published: 2020-01-03; Updated: 2024-05-01_
+
+---
+
 [TOP](#contents)

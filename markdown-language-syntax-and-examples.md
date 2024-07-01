@@ -98,4 +98,10 @@ This video provides a comprehensive and easy-to-follow guide to mastering Markdo
 >
 > -Buddha
 
+---
+
+_Published: 2020-01-02; Updated: 2024-05-01_
+
+---
+
 [TOP](#contents)
