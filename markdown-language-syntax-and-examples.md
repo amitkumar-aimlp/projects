@@ -9,8 +9,11 @@ tags: [Markdown, Syntax, Examples, Guide, Documentation]
 published: true
 ---
 
-## Contents:<!-- omit in toc -->
+## Contents:<!-- omit in toc --> {% include reading-time.html %}
 
+{% include reading-time.html %}
+
+- [Contents: {% include reading-time.html %}](#contents--include-reading-timehtml-)
 - [Markdown Language: Syntax and Examples](#markdown-language-syntax-and-examples)
 - [Some Special Features of Markdown Language](#some-special-features-of-markdown-language)
 - [Videos: Learn Markdown in 30 Minutes!](#videos-learn-markdown-in-30-minutes)
