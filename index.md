@@ -21,7 +21,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 - [Natural Language Processing-2](#natural-language-processing-2)
 - [Computer Vision-1](#computer-vision-1)
 - [Computer Vision-2](#computer-vision-2)
-- [Computer Vision-3](#computer-vision-3) - [Published: 2020-01-01; Updated: 2020-05-01](#published-2020-01-01-updated-2020-05-01)
+- [Computer Vision-3](#computer-vision-3)
 
 # Markdown Language: Syntax and Examples
 
@@ -106,7 +106,7 @@ Pass
 
 ---
 
-#### Published: 2020-01-01; Updated: 2020-05-01
+_Published: 2020-01-01; Updated: 2024-05-01_
 
 ---
 
