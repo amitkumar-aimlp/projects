@@ -22,6 +22,8 @@ published: true
 - [Conclusion](#conclusion)
 - [References](#references)
 
+({% include reading-time.html %})
+
 ## Introduction: Exploring the Versatility of Python
 
 ![python-applications](/assets/python/python-applications.png)
