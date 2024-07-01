@@ -23,6 +23,8 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 - [Computer Vision-2](#computer-vision-2)
 - [Computer Vision-3](#computer-vision-3)
 
+{% include reading-time.html %}
+
 # Markdown Language: Syntax and Examples
 
 1. **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
