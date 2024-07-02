@@ -1,40 +1,19 @@
 ---
 layout: default
 title: Search this Site
-description:
+description: Powered by Google Search
 author: "Amit Kumar"
 date: "2020-01-01"
-categories: [Search, Site Search]
-tags: [Search, Site Search]
+categories: [Site Search]
+tags: [Site Search]
 published: true
 ---
 
-## Search this Site:
+## Contact Me Form
 
-<form action="{{ site.baseurl }}/search" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
-
-<ul id="search-results"></ul>
-
-<script>
-  window.store = {
-    {% for post in site.posts %}
-      "{{ post.url | slugify }}": {
-        "title": "{{ post.title | xml_escape }}",
-        "author": "{{ post.author | xml_escape }}",
-        "category": "{{ post.category | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ post.url | xml_escape }}"
-      }
-      {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  };
+<script async src="https://cse.google.com/cse.js?cx=0282b61fa65364991">
 </script>
-<script src="{{ site.baseurl }}/js/lunr.min.js"></script>
-<script src="{{ site.baseurl }}/js/search.js"></script>
+<div class="gcse-search"></div>
 
 ---
 
