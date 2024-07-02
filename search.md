@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: default
 title: Search this Site
 description:
 author: "Amit Kumar"
