@@ -11,7 +11,7 @@ published: true
 
 ## Search this Site:
 
-<form action="{{ site.baseurl }}/search.html" method="get">
+<form action="{{ site.baseurl }}/search" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
