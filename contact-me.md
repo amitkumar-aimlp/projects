@@ -11,7 +11,7 @@ published: true
 
 ## Contact Me Form
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+<div style="position: relative; padding-bottom: 5%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe
       id="JotFormIFrame-241835071547458"
       title="Lets Connect and Collaborate"
