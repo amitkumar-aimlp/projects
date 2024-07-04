@@ -3,7 +3,7 @@ layout: default
 title: Markdown Language - A Comprehensive Guide to Simple and Effective Formatting
 description: Learn Markdown - A simple, versatile language for creating well-structured documents. Master headers, lists, tables, and more. Perfect for writers and developers.
 author: "Amit Kumar"
-date: "2020-01-01"
+date: "2020-01-02"
 categories: [Markdown, Guide, Documentation]
 tags: [Markdown, Syntax, Examples, Guide, Documentation]
 published: true
@@ -20,7 +20,7 @@ published: true
 
 ## Markdown Language: Syntax and Examples
 
-![markdown-flowchart](/assets/markdown/markdown-flowchart.avif)
+![markdown-flowchart](/assets/markdown/markdown-flowchart.png)
 
 Markdown is a lightweight markup language with plain-text formatting syntax designed to make writing on the web easier. It allows writers to format text using simple, intuitive symbols and characters rather than complex HTML tags. For example, headers are created using the `#` symbol, with the number of `#` signs indicating the level of the header (`#` for H1, `##` for H2, and so on). Emphasis can be added to text using asterisks or underscores (`*italic*` or `_italic_` for italics, `**bold**` or `__bold__` for bold). Lists are also straightforward: unordered lists use dashes, plus signs, or asterisks (`-`, `+`, or `*`), while ordered lists use numbers followed by periods (`1.`).
 
