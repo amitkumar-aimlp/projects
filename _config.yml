@@ -7,8 +7,3 @@ google_analytics: G-X29GWR9LQS
 theme: jekyll-theme-cayman
 
 permalink: pretty
-
-breadcrumbs:
-  root:
-    hide: true # show breadcrumbs on root/home page
-    image: false # Show image or title text
