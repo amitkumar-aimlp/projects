@@ -3,7 +3,7 @@ layout: default
 title: Python Programming Language - From Web Development to Data Science
 description: Discover the power of python programming language - Build dynamic web apps and analyze complex data. Empower developers and data scientists with Python's flexibility and powerful libraries.
 author: "Amit Kumar"
-date: "2020-01-02"
+date: "2020-01-03"
 categories: [Python Programming, Guide, Documentation]
 tags: [Python Programming, Syntax, Examples, Guide, Documentation]
 published: true
