@@ -134,9 +134,9 @@ NumPy remains indispensable in the Python ecosystem for its ability to handle la
 
 ## References
 
-1. Official NumPy Documentation: [numpy.org](https://numpy.org)
-2. NumPy Tutorials and Examples: [numpy.org/devdocs/user/quickstart.html](https://numpy.org/devdocs/user/quickstart.html)
-3. Python Data Science Handbook by Jake VanderPlas: A comprehensive guide to NumPy and its applications.
+1. [Official NumPy Documentation](https://numpy.org)
+2. [NumPy Tutorials and Examples](https://numpy.org/devdocs/user/quickstart.html)
+3. [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 4. [NumPy – Wikipedia](https://en.wikipedia.org/wiki/NumPy)
 5. [Array Programming with NumPy](https://rdcu.be/dMKZD)
 
