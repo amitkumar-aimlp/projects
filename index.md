@@ -56,25 +56,25 @@ Reference and Details: [Python Programming Language: Syntax and Examples](./pyth
 
 1. **Introduction to NumPy**
 2. **Key Features of NumPy**
-   1. **Arrays and Data Structures**
-   2. **Universal Functions (ufunc)**
-   3. **Broadcasting**
-   4. **Indexing and Slicing**
-   5. **Array Manipulation**
-   6. **Mathematical Functions**
-   7. **Random Number Generation**
-   8. **File I/O**
-   9. **Integration with Other Libraries**
+   1. Arrays and Data Structures
+   2. Universal Functions (ufunc)
+   3. Broadcasting
+   4. Indexing and Slicing
+   5. Array Manipulation
+   6. Mathematical Functions
+   7. Random Number Generation
+   8. File I/O
+   9. Integration with Other Libraries
 3. **Performance and Efficiency**
 4. **Applications of NumPy**
-   1. **Data Analysis**
-   2. **Machine Learning**
-   3. **Scientific Computing**
+   1. Data Analysis
+   2. Machine Learning
+   3. Scientific Computing
 5. **Best Practices with NumPy**
-   1. **Efficient Memory Management**
-   2. **Vectorization**
-   3. **Code Optimization**
-   4. **Error Handling and Debugging**
+   1. Efficient Memory Management
+   2. Vectorization
+   3. Code Optimization
+   4. Error Handling and Debugging
 6. **Conclusion**
 7. **Further Resources**
 
@@ -82,8 +82,8 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](./numpy-f
 
 # Pandas for Data Science
 
-1. Introduction
-2. Key Features of Pandas
+1. **Introduction**
+2. **Key Features of Pandas**
    - Data Structures
      - Series
      - DataFrame
@@ -131,7 +131,7 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](./numpy-f
    - Data Visualization Integration
      - Seaborn Integration
      - Plotly Integration
-3. Conclusion
+3. **Conclusion**
 
 Reference and Details: [Pandas for Data Science: A Comprehensive Guide](./pandas-for-data-science-a-comprehensive-guide).
 
