@@ -33,7 +33,7 @@
 
 3. **Hacks:** Underline, Indent, Center, Color, Comments, Admonitions, Image Size, Image Captions, Link Targets, Symbols, Table Formatting, Table of Contents, Videos
 
-Reference and Details: [Markdown Language: Syntax and Examples](./markdown-language-syntax-and-examples).
+Reference and Details: [Markdown Language: Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples).
 
 # Python Programming Language: Syntax and Examples
 
@@ -48,7 +48,7 @@ Reference and Details: [Markdown Language: Syntax and Examples](./markdown-langu
 9. **Matplotlib**
 10. **Plotly**
 
-Reference and Details: [Python Programming Language: Syntax and Examples](./python-programming-language-syntax-and-examples).
+Reference and Details: [Python Programming Language: Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples).
 
 # NumPy for Data Science
 
@@ -76,7 +76,7 @@ Reference and Details: [Python Programming Language: Syntax and Examples](./pyth
 6. **Conclusion**
 7. **Further Resources**
 
-Reference and Details: [NumPy for Data Science: A Comprehensive Guide](./numpy-for-data-science-a-comprehensive-guide).
+Reference and Details: [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide).
 
 # Pandas for Data Science
 
@@ -131,7 +131,7 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](./numpy-f
      - Plotly Integration
 3. **Conclusion**
 
-Reference and Details: [Pandas for Data Science: A Comprehensive Guide](./pandas-for-data-science-a-comprehensive-guide).
+Reference and Details: [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide).
 
 # Matplotlib
 
