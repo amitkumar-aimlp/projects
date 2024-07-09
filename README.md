@@ -23,9 +23,7 @@
 - [Computer Vision-2](#computer-vision-2)
 - [Computer Vision-3](#computer-vision-3)
 
-{% include reading-time.html %}
-
-# Markdown Language: Syntax and Examples
+### Markdown Language: Syntax and Examples
 
 1. **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
 
@@ -35,7 +33,7 @@
 
 Reference and Details: [Markdown Language: Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples).
 
-# Python Programming Language: Syntax and Examples
+### Python Programming Language: Syntax and Examples
 
 1. **Overview/Basics**
 2. **Lists**
@@ -50,7 +48,7 @@ Reference and Details: [Markdown Language: Syntax and Examples](https://amitkuma
 
 Reference and Details: [Python Programming Language: Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples).
 
-# NumPy for Data Science
+### NumPy for Data Science
 
 1. **Introduction to NumPy**
 2. **Key Features of NumPy**
@@ -78,7 +76,7 @@ Reference and Details: [Python Programming Language: Syntax and Examples](https:
 
 Reference and Details: [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide).
 
-# Pandas for Data Science
+### Pandas for Data Science
 
 1. **Introduction**
 2. **Key Features of Pandas**
@@ -133,59 +131,59 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](https://a
 
 Reference and Details: [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide).
 
-# Matplotlib
+### Matplotlib
 
 Pass
 
-# Basic Statistics
+### Basic Statistics
 
 Pass
 
-# Applied Statistics
+### Applied Statistics
 
 Pass
 
-# Supervised Learning
+### Supervised Learning
 
 Pass
 
-# Unsupervised Learning
+### Unsupervised Learning
 
 Pass
 
-# Ensemble Techniques
+### Ensemble Techniques
 
 Pass
 
-# Feature Engineering, Model Selection
+### Feature Engineering, Model Selection
 
 Pass
 
-# Recommendation Systems
+### Recommendation Systems
 
 Pass
 
-# Deep Learning
+### Deep Learning
 
 Pass
 
-# Natural Language Processing-1
+### Natural Language Processing-1
 
 Pass
 
-# Natural Language Processing-2
+### Natural Language Processing-2
 
 Pass
 
-# Computer Vision-1
+### Computer Vision-1
 
 Pass
 
-# Computer Vision-2
+### Computer Vision-2
 
 Pass
 
-# Computer Vision-3
+### Computer Vision-3
 
 Pass
 
