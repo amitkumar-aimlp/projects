@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples/</loc>
-    <lastmod>2024-07-04</lastmod>
+    <lastmod>2024-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide/</loc>
-    <lastmod>2024-07-04</lastmod>
+    <lastmod>2024-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples/</loc>
-    <lastmod>2024-07-04</lastmod>
+    <lastmod>2024-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -28,6 +28,15 @@
       </image:image>
       <image:image>
         <image:loc>https://amitkumar-aimlp.github.io/projects/assets/python/python-standard-type-hierarchy.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide/</loc>
+    <lastmod>2024-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://amitkumar-aimlp.github.io/projects/assets/pandas/pandas-for-data-science.png</image:loc>
       </image:image>
   </url>
 </urlset>
