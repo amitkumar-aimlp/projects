@@ -3548,7 +3548,7 @@ plt.show()
 # %% [markdown]
 # Installing Plotly
 # ```python
-# ! pip install matplotlib
+# ! pip install plotly
 # ```
 
 # %% [markdown]
