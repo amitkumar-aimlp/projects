@@ -334,11 +334,11 @@ This comprehensive guide highlights the fundamental features of pandas, providin
 
 ## References
 
-1. [McKinney, Wes. "Data Structures for Statistical Computing in Python," Proceedings of the 9th Python in Science Conference, 2010.](https://www.researchgate.net/publication/340177686_Data_Structures_for_Statistical_Computing_in_Python)
+1. [McKinney, Wes. "Data Structures for Statistical Computing in Python" Proceedings of the 9th Python in Science Conference, 2010.](https://www.researchgate.net/publication/340177686_Data_Structures_for_Statistical_Computing_in_Python)
 2. [Pandas Documentation](https://pandas.pydata.org/docs)
 3. [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
-4. [McKinney, Wes. "Python for Data Analysis,"](https://wesmckinney.com/book/)
-5. [Using pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
+4. [McKinney, Wes. "Python for Data Analysis"](https://wesmckinney.com/book/)
+5. [Using Pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
 6. [Pandas - Wikipedia](<https://en.wikipedia.org/wiki/Pandas_(software)>)
 
 > ### Choosing to vigorously and constantly work on their personal development is what separates successful people from people who muddle through life.
