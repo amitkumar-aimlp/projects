@@ -42,7 +42,7 @@ published: true
 - [Cross-Platform Compatibility](#cross-platform-compatibility)
 - [Learning Curve](#learning-curve)
 - [Use Cases](#use-cases)
-- [YouTube](#youtube)
+- [Videos: Learn SQL with Great Ease](#videos-learn-sql-with-great-ease)
 - [Conclusion](#conclusion)
 - [Pandas Vs SQL: Comparison Table](#pandas-vs-sql-comparison-table)
 - [References](#references)
@@ -534,7 +534,7 @@ SQL applies to diverse database management and analysis scenarios:
 - **Database Management**: Manages relational databases, executes complex queries, and ensures data integrity and consistency.
 - **Reporting**: Generates reports, extracts insights, and provides business intelligence (BI) for decision-making based on structured data analysis.
 
-## YouTube
+## Videos: Learn SQL with Great Ease
 
 Full SQL and Database course from FreeCodeCamp.
 
