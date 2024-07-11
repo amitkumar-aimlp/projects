@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PySpark Using Databricks: Comprehensive Guide to Big Data Analytics and Machine Learning
+title: PySpark Using Databricks - Comprehensive Guide to Big Data Analytics and Machine Learning
 description: Discover the ultimate guide to PySpark using Databricks. Learn how to set up, ingest data, perform advanced analytics, and optimize performance in this comprehensive tutorial.
 author: "Amit Kumar"
 date: "2020-01-07"
