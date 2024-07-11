@@ -11,6 +11,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 - [NumPy for Data Science](#numpy-for-data-science)
 - [Pandas for Data Science](#pandas-for-data-science)
 - [Pandas Vs. SQL: A Comprehensive Comparison](#pandas-vs-sql-a-comprehensive-comparison)
+- [PySpark Using DataBricks: A Comprehensive Guide](#pyspark-using-databricks-a-comprehensive-guide)
 - [Matplotlib](#matplotlib)
 - [Basic Statistics](#basic-statistics)
 - [Applied Statistics](#applied-statistics)
@@ -173,6 +174,41 @@ Reference and Details: [Pandas for Data Science: A Comprehensive Guide](./pandas
 33. **References**
 
 Reference and Details: [Pandas Vs. SQL: A Comprehensive Comparison](./pandas-vs-sql-a-comprehensive-comparison).
+
+# PySpark Using DataBricks: A Comprehensive Guide
+
+1. **Introduction**
+2. **Setting Up PySpark in Databricks**
+   - Creating a Databricks Account
+   - Creating a Databricks Workspace
+   - Launching a Cluster
+3. **Data Ingestion and Preparation**
+   - Reading Data
+   - Data Transformation
+   - Data Cleaning
+4. **Data Analysis and Exploration**
+   - Descriptive Statistics
+   - Data Visualization
+   - Exploratory Data Analysis (EDA)
+5. **Machine Learning with PySpark**
+   - MLlib Overview
+   - Feature Engineering
+   - Building Models
+   - Model Evaluation
+6. **Performance Tuning and Optimization**
+   - Understanding Spark Internals
+   - Optimizing PySpark Jobs
+   - Resource Management
+7. **Collaboration and Version Control**
+   - Using Databricks Notebooks
+   - Dashboards and Reports
+8. **Integrations and Extensions**
+   - Integration with Other Tools
+   - Databricks Connect
+9. **Conclusion**
+10. **References**
+
+Reference and Details: [PySpark Using Databricks: A Comprehensive Guide](./pyspark-using-databricks-a-comprehensive-guide).
 
 # Matplotlib
 
