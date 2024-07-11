@@ -10,7 +10,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 - [Python Programming Language: Syntax and Examples](#python-programming-language-syntax-and-examples)
 - [NumPy for Data Science](#numpy-for-data-science)
 - [Pandas for Data Science](#pandas-for-data-science)
-  - [Pandas Vs. SQL: A Comprehensive Comparison](#pandas-vs-sql-a-comprehensive-comparison)
+- [Pandas Vs. SQL: A Comprehensive Comparison](#pandas-vs-sql-a-comprehensive-comparison)
 - [Matplotlib](#matplotlib)
 - [Basic Statistics](#basic-statistics)
 - [Applied Statistics](#applied-statistics)
@@ -136,7 +136,7 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](./numpy-f
 
 Reference and Details: [Pandas for Data Science: A Comprehensive Guide](./pandas-for-data-science-a-comprehensive-guide).
 
-## Pandas Vs. SQL: A Comprehensive Comparison
+# Pandas Vs. SQL: A Comprehensive Comparison
 
 1. **Introduction**
 2. **Data Structures**
