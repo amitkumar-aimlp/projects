@@ -203,7 +203,7 @@ PySpark, combined with Databricks, offers a robust and scalable solution for big
 11. [Databricks Connect - Documentation on using Databricks Connect to run PySpark code from local IDEs and interact with remote clusters. Available at: Databricks Connect](https://docs.databricks.com/dev-tools/databricks-connect.html)
 12. [Best Resources to Learn Spark](https://www.mltut.com/best-resources-to-learn-spark/)
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> ### What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
 > -Ralph Waldo Emerson
 
