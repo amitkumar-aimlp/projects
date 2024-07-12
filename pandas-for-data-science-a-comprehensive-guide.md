@@ -323,7 +323,7 @@ Pandas is an open-source Python library that provides high-performance, easy-to-
 This YouTube video is a comprehensive tutorial aimed at beginners looking to learn pandas for data analysis. It covers essential topics such as pandas data structures, data manipulation techniques, and how to perform common tasks like data cleaning and visualization using pandas. The tutorial is suitable for anyone interested in mastering pandas for data science applications.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe src="https://www.youtube.com/embed/gtjxAH8uaP0?si=p70_3taUXZ5Ey5bf" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/ZyhVh-qRZPA?si=PwxA9i0V7D9OXS9K" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
 
 ## Conclusion
