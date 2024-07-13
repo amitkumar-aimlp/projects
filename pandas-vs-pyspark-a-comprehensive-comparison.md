@@ -126,17 +126,18 @@ In the realm of data processing and analysis, two powerful tools have emerged as
 ## Pandas Vs. PySpark: Comparison Table
 
 This table outlines the main features and differences between Pandas and PySpark, helping readers quickly grasp the key distinctions between the two tools.
-| Feature / Aspect | Pandas | PySpark |
-|---------------------------------------|-----------------------------------------------|--------------------------------------------------|
-| **Core Concepts** | Developed for data manipulation and analysis in Python. | Python API for distributed computing with Apache Spark. |
-| **Performance and Scalability** | In-memory processing; suitable for small to medium-sized datasets. | Distributed computing across clusters; handles large-scale data. |
-| **Data Structures** | DataFrame, Series | DataFrame, RDD |
-| **Ease of Use and Learning Curve** | Intuitive syntax, rich built-in functions | Steeper learning curve, requires understanding of distributed computing |
-| **Data Handling and Manipulation** | Powerful data manipulation, supports indexing, slicing, and alignment | Distributed data processing, transformations on RDDs and DataFrames |
-| **Integration and Ecosystem** | Strong integration with Python libraries | Part of Apache Spark ecosystem, integrates with Hadoop |
-| **Performance Optimization** | Limited by single-machine memory; optimized vectorized operations | Optimized for distributed computing, Catalyst optimizer, Apache Arrow for in-memory computation |
-| **Use Cases** | EDA, small to medium-scale data manipulation, prototyping ML models | Large-scale data processing, ETL operations, real-time stream processing, machine learning at scale |
-| **Community and Support** | Large and active community, extensive documentation | Growing community, strong support from Apache Spark ecosystem |
+
+| Feature / Aspect                   | Pandas                                                                | PySpark                                                                                             |
+| ---------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Core Concepts**                  | Developed for data manipulation and analysis in Python.               | Python API for distributed computing with Apache Spark.                                             |
+| **Performance and Scalability**    | In-memory processing; suitable for small to medium-sized datasets.    | Distributed computing across clusters; handles large-scale data.                                    |
+| **Data Structures**                | DataFrame, Series                                                     | DataFrame, RDD                                                                                      |
+| **Ease of Use and Learning Curve** | Intuitive syntax, rich built-in functions                             | Steeper learning curve, requires understanding of distributed computing                             |
+| **Data Handling and Manipulation** | Powerful data manipulation, supports indexing, slicing, and alignment | Distributed data processing, transformations on RDDs and DataFrames                                 |
+| **Integration and Ecosystem**      | Strong integration with Python libraries                              | Part of Apache Spark ecosystem, integrates with Hadoop                                              |
+| **Performance Optimization**       | Limited by single-machine memory; optimized vectorized operations     | Optimized for distributed computing, Catalyst optimizer, Apache Arrow for in-memory computation     |
+| **Use Cases**                      | EDA, small to medium-scale data manipulation, prototyping ML models   | Large-scale data processing, ETL operations, real-time stream processing, machine learning at scale |
+| **Community and Support**          | Large and active community, extensive documentation                   | Growing community, strong support from Apache Spark ecosystem                                       |
 
 ## Conclusion
 
