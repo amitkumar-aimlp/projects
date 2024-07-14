@@ -2,7 +2,6 @@
 layout: default
 title: Artificial Intelligence and Machine Learning (AIML) Projects
 description: Topics Covered - Artificial Intelligence, Machine Learning, Data Science
-comments: false
 ---
 
 ## Contents:<!-- omit in toc -->

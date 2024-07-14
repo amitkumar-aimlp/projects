@@ -7,6 +7,7 @@ date: "2020-01-03"
 categories: [Python Programming, Guide, Documentation]
 tags: [Python Programming, Syntax, Examples, Guide, Documentation]
 published: true
+comments: true
 ---
 
 ## Contents:<!-- omit in toc -->
