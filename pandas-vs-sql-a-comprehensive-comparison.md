@@ -7,6 +7,7 @@ date: "2020-01-06"
 categories: [Pandas, SQL, Guide, Documentation]
 tags: [Pandas, SQL, Guide, Documentation]
 published: true
+comments: true
 ---
 
 ## Contents:<!-- omit in toc -->

@@ -7,6 +7,7 @@ date: "2020-01-08"
 categories: [Pandas, PySpark, Guide, Documentation]
 tags: [Pandas, PySpark, Guide, Documentation]
 published: true
+comments: true
 ---
 
 Contents:<!-- omit in toc -->

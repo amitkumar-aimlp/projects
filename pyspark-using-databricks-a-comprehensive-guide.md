@@ -7,6 +7,7 @@ date: "2020-01-07"
 categories: [PySpark, DataBricks, Python, Guide, Documentation]
 tags: [PySpark, DataBricks, Python, Syntax, Examples, Guide, Documentation]
 published: true
+comments: true
 ---
 
 ## Contents:<!-- omit in toc -->
