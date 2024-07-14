@@ -7,3 +7,5 @@ google_analytics: G-X29GWR9LQS
 theme: jekyll-theme-cayman
 
 permalink: pretty
+
+comments: true
