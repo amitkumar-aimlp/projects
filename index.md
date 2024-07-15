@@ -12,6 +12,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 - [Pandas for Data Science](#pandas-for-data-science)
 - [Pandas Vs. SQL: A Comprehensive Comparison](#pandas-vs-sql-a-comprehensive-comparison)
 - [PySpark Using DataBricks: A Comprehensive Guide](#pyspark-using-databricks-a-comprehensive-guide)
+- [Pandas Vs. PySpark: A Comprehensive Comparison](#pandas-vs-pyspark-a-comprehensive-comparison)
 - [Matplotlib](#matplotlib)
 - [Basic Statistics](#basic-statistics)
 - [Applied Statistics](#applied-statistics)
@@ -29,7 +30,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 
 {% include reading-time.html %}
 
-# Markdown Language: Syntax and Examples
+## Markdown Language: Syntax and Examples
 
 1. **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
 
@@ -39,7 +40,7 @@ description: Topics Covered - Artificial Intelligence, Machine Learning, Data Sc
 
 Reference and Details: [Markdown Language: Syntax and Examples](./markdown-language-syntax-and-examples).
 
-# Python Programming Language: Syntax and Examples
+## Python Programming Language: Syntax and Examples
 
 1. **Overview/Basics**
 2. **Lists**
@@ -54,7 +55,7 @@ Reference and Details: [Markdown Language: Syntax and Examples](./markdown-langu
 
 Reference and Details: [Python Programming Language: Syntax and Examples](./python-programming-language-syntax-and-examples).
 
-# NumPy for Data Science
+## NumPy for Data Science
 
 1. **Introduction to NumPy**
 2. **Key Features of NumPy**
@@ -82,7 +83,7 @@ Reference and Details: [Python Programming Language: Syntax and Examples](./pyth
 
 Reference and Details: [NumPy for Data Science: A Comprehensive Guide](./numpy-for-data-science-a-comprehensive-guide).
 
-# Pandas for Data Science
+## Pandas for Data Science
 
 1. **Introduction**
 2. **Key Features of Pandas**
@@ -137,7 +138,7 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](./numpy-f
 
 Reference and Details: [Pandas for Data Science: A Comprehensive Guide](./pandas-for-data-science-a-comprehensive-guide).
 
-# Pandas Vs. SQL: A Comprehensive Comparison
+## Pandas Vs. SQL: A Comprehensive Comparison
 
 1. **Introduction**
 2. **Data Structures**
@@ -175,7 +176,7 @@ Reference and Details: [Pandas for Data Science: A Comprehensive Guide](./pandas
 
 Reference and Details: [Pandas Vs. SQL: A Comprehensive Comparison](./pandas-vs-sql-a-comprehensive-comparison).
 
-# PySpark Using DataBricks: A Comprehensive Guide
+## PySpark Using DataBricks: A Comprehensive Guide
 
 1. **Introduction**
 2. **Setting Up PySpark in Databricks**
@@ -210,59 +211,76 @@ Reference and Details: [Pandas Vs. SQL: A Comprehensive Comparison](./pandas-vs-
 
 Reference and Details: [PySpark Using Databricks: A Comprehensive Guide](./pyspark-using-databricks-a-comprehensive-guide).
 
-# Matplotlib
+## Pandas Vs. PySpark: A Comprehensive Comparison
+
+1. **Introduction**
+2. **Core Concepts**
+3. **Performance and Scalability**
+4. **Data Structures**
+5. **Ease of Use and Learning Curve**
+6. **Data Handling and Manipulation**
+7. **Integration and Ecosystem**
+8. **Performance Optimization**
+9. **Use Cases**
+10. **Community and Support**
+11. **Conclusion**
+12. **References**
+
+Reference and Details: [Pandas Vs. PySpark: A Comprehensive Comparison](./pandas-vs-pyspark-a-comprehensive-comparison).
+
+## Matplotlib
 
 Pass
 
-# Basic Statistics
+## Basic Statistics
 
 Pass
 
-# Applied Statistics
+## Applied Statistics
 
 Pass
 
-# Supervised Learning
+## Supervised Learning
 
 Pass
 
-# Unsupervised Learning
+## Unsupervised Learning
 
 Pass
 
-# Ensemble Techniques
+## Ensemble Techniques
 
 Pass
 
-# Feature Engineering, Model Selection
+## Feature Engineering, Model Selection
 
 Pass
 
-# Recommendation Systems
+## Recommendation Systems
 
 Pass
 
-# Deep Learning
+## Deep Learning
 
 Pass
 
-# Natural Language Processing-1
+## Natural Language Processing-1
 
 Pass
 
-# Natural Language Processing-2
+## Natural Language Processing-2
 
 Pass
 
-# Computer Vision-1
+## Computer Vision-1
 
 Pass
 
-# Computer Vision-2
+## Computer Vision-2
 
 Pass
 
-# Computer Vision-3
+## Computer Vision-3
 
 Pass
 

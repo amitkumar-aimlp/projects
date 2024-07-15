@@ -10,6 +10,7 @@
 - [Pandas for Data Science](#pandas-for-data-science)
 - [Pandas Vs. SQL: A Comprehensive Comparison](#pandas-vs-sql-a-comprehensive-comparison)
 - [PySpark Using DataBricks: A Comprehensive Guide](#pyspark-using-databricks-a-comprehensive-guide)
+- [Pandas Vs. PySpark: A Comprehensive Comparison](#pandas-vs-pyspark-a-comprehensive-comparison)
 - [Matplotlib](#matplotlib)
 - [Basic Statistics](#basic-statistics)
 - [Applied Statistics](#applied-statistics)
@@ -205,6 +206,23 @@ Reference and Details: [Pandas Vs. SQL: A Comprehensive Comparison](https://amit
 10. **References**
 
 Reference and Details: [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide).
+
+### Pandas Vs. PySpark: A Comprehensive Comparison
+
+1. **Introduction**
+2. **Core Concepts**
+3. **Performance and Scalability**
+4. **Data Structures**
+5. **Ease of Use and Learning Curve**
+6. **Data Handling and Manipulation**
+7. **Integration and Ecosystem**
+8. **Performance Optimization**
+9. **Use Cases**
+10. **Community and Support**
+11. **Conclusion**
+12. **References**
+
+Reference and Details: [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison).
 
 ### Matplotlib
 

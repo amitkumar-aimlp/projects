@@ -7,6 +7,7 @@ date: "2020-01-04"
 categories: [NumPy, Data Science]
 tags: [NumPy, Data Science, Examples, Guide, Documentation]
 published: true
+comments: true
 ---
 
 ## Contents:<!-- omit in toc -->

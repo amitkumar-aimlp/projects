@@ -7,6 +7,7 @@ date: "2020-01-07"
 categories: [PySpark, DataBricks, Python, Guide, Documentation]
 tags: [PySpark, DataBricks, Python, Syntax, Examples, Guide, Documentation]
 published: true
+comments: true
 ---
 
 ## Contents:<!-- omit in toc -->
@@ -47,8 +48,11 @@ published: true
 
 ## Introduction
 
-![image-name](/assets/pyspark/apache-spark-python-pyspark.jpg)
+![apache-spark-python-pyspark](/assets/pyspark/apache-spark-python-pyspark.jpg)
 In today's data-driven world, the ability to process and analyze large datasets efficiently is crucial. PySpark, the Python API for Apache Spark, offers a powerful framework for big data processing and analytics. When combined with Databricks, a cloud-based platform optimized for Apache Spark, the capabilities expand further, providing a seamless and scalable environment for data science and engineering tasks. This guide covers the essential features and functionalities of using PySpark within Databricks, offering insights into setup, data processing, machine learning, performance optimization, collaboration, and more.
+
+> [!NOTE]  
+> [PySpark: The Definitive Guide](https://github.com/amitkumar-aimlp/Spark-The-Definitive-Guide).
 
 ## Setting Up PySpark in Databricks
 
