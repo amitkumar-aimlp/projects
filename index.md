@@ -2,6 +2,27 @@
 layout: default
 title: Artificial Intelligence and Machine Learning (AIML) Projects
 description: Topics Covered - Artificial Intelligence, Machine Learning, Data Science
+author: "Amit Kumar"
+date: "2020-01-01"
+categories:
+  [
+    Artificial Intelligence,
+    Machine Learning,
+    Data Science,
+    Guide,
+    Documentation,
+    Projects,
+  ]
+tags:
+  [
+    Artificial Intelligence,
+    Machine Learning,
+    Data Science,
+    Guide,
+    Documentation,
+    Projects,
+  ]
+published: true
 ---
 
 ## Contents:<!-- omit in toc -->
