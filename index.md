@@ -40,14 +40,12 @@ published: true
 - [Supervised Learning](#supervised-learning)
 - [Unsupervised Learning](#unsupervised-learning)
 - [Ensemble Techniques](#ensemble-techniques)
-- [Feature Engineering, Model Selection](#feature-engineering-model-selection)
+- [Feature Engineering](#feature-engineering)
+- [Model Tuning](#model-tuning)
 - [Recommendation Systems](#recommendation-systems)
 - [Deep Learning](#deep-learning)
-- [Natural Language Processing-1](#natural-language-processing-1)
-- [Natural Language Processing-2](#natural-language-processing-2)
-- [Computer Vision-1](#computer-vision-1)
-- [Computer Vision-2](#computer-vision-2)
-- [Computer Vision-3](#computer-vision-3)
+- [Natural Language Processing](#natural-language-processing)
+- [Computer Vision](#computer-vision)
 
 {% include reading-time.html %}
 
@@ -273,7 +271,11 @@ Pass
 
 Pass
 
-## Feature Engineering, Model Selection
+## Feature Engineering
+
+Pass
+
+## Model Tuning
 
 Pass
 
@@ -285,23 +287,11 @@ Pass
 
 Pass
 
-## Natural Language Processing-1
+## Natural Language Processing
 
 Pass
 
-## Natural Language Processing-2
-
-Pass
-
-## Computer Vision-1
-
-Pass
-
-## Computer Vision-2
-
-Pass
-
-## Computer Vision-3
+## Computer Vision
 
 Pass
 
