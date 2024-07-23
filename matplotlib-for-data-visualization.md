@@ -47,7 +47,20 @@ To start using Matplotlib, you need to install it. The simplest way to install M
   ```
 - Once installed, you can start using Matplotlib by importing it in your Python scripts:
   ```python
-    import matplotlib.pyplot as plt
+  import matplotlib.pyplot as plt
+  ```
+- A quick reminder about the built-in documentation that IPython gives you the ability to quickly explore the contents of a package (by using the Tab completion feature), as well as the documentation of various functions (using the ? character).
+
+- To display all the contents of the Matplotlib namespace, you can type this:
+
+  ```python
+  plt.<TAB>
+  ```
+
+- To display Matplotlib’s built-in documentation, you can use this:
+
+  ```python
+  plt?
   ```
 
 ## Basic Plotting
