@@ -363,6 +363,8 @@ Pass
 
 Pass
 
+[Search using Lunr](./search-lunr).
+
 ---
 
 _Published: 2020-01-01; Updated: 2024-05-01_
