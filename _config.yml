@@ -9,8 +9,3 @@ theme: jekyll-theme-cayman
 permalink: pretty
 
 comments: true
-
-related_by: tags categories # Match on both categories and tags
-related_limit: 6 # Include 6 related pages
-related_categories: 1 # Match at least 1 category
-related_tags: 1 # AND at least 1 tag.
