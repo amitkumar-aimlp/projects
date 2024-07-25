@@ -8,6 +8,7 @@ categories: [Markdown, Guide, Documentation]
 tags: [Markdown, Syntax, Examples, Guide, Documentation]
 published: true
 comments: true
+related: true
 ---
 
 ## Contents:<!-- omit in toc -->
