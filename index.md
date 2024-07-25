@@ -34,20 +34,18 @@ published: true
 - [Pandas Vs. SQL: A Comprehensive Comparison](#pandas-vs-sql-a-comprehensive-comparison)
 - [PySpark Using DataBricks: A Comprehensive Guide](#pyspark-using-databricks-a-comprehensive-guide)
 - [Pandas Vs. PySpark: A Comprehensive Comparison](#pandas-vs-pyspark-a-comprehensive-comparison)
-- [Matplotlib](#matplotlib)
+- [Matplotlib for Data Visualization](#matplotlib-for-data-visualization)
 - [Basic Statistics](#basic-statistics)
 - [Applied Statistics](#applied-statistics)
 - [Supervised Learning](#supervised-learning)
 - [Unsupervised Learning](#unsupervised-learning)
 - [Ensemble Techniques](#ensemble-techniques)
-- [Feature Engineering, Model Selection](#feature-engineering-model-selection)
+- [Feature Engineering](#feature-engineering)
+- [Model Tuning](#model-tuning)
 - [Recommendation Systems](#recommendation-systems)
 - [Deep Learning](#deep-learning)
-- [Natural Language Processing-1](#natural-language-processing-1)
-- [Natural Language Processing-2](#natural-language-processing-2)
-- [Computer Vision-1](#computer-vision-1)
-- [Computer Vision-2](#computer-vision-2)
-- [Computer Vision-3](#computer-vision-3)
+- [Natural Language Processing](#natural-language-processing)
+- [Computer Vision](#computer-vision)
 
 {% include reading-time.html %}
 
@@ -249,9 +247,77 @@ Reference and Details: [PySpark Using Databricks: A Comprehensive Guide](./pyspa
 
 Reference and Details: [Pandas Vs. PySpark: A Comprehensive Comparison](./pandas-vs-pyspark-a-comprehensive-comparison).
 
-## Matplotlib
+## Matplotlib for Data Visualization
 
-Pass
+1. **Introduction**
+2. **Installation**
+3. **Basic Plotting**
+   - **Creating a Simple Plot**
+     - Line Plot
+     - Scatter Plot
+     - Bar Plot
+     - Histogram
+     - Pie Chart
+   - **Customizing Plots**
+     - Titles and Labels
+     - Legends
+     - Gridlines
+     - Annotations
+4. **Advanced Plotting Features**
+   - **Subplots**
+     - Creating Multiple Plots
+     - Adjusting Layouts
+   - **3D Plotting**
+     - Creating 3D Plots
+     - Surface Plots
+     - Wireframe Plots
+   - **Animations**
+     - Creating Animations
+     - Saving Animations
+5. **Customization and Styling**
+   - **Color and Styles**
+     - Customizing Colors
+     - Using Different Line Styles
+     - Marker Styles
+   - **Themes**
+     - Using Built-in Themes
+     - Creating Custom Themes
+   - **Figures and Axes**
+     - Adjusting Figure Size
+     - Modifying Axes
+6. **Interactivity**
+   - **Interactive Plots**
+     - Using Interactive Backends
+     - Zooming and Panning
+   - **Widgets**
+     - Adding Sliders
+     - Buttons and Menus
+7. **Integration with Other Libraries**
+   - **Pandas Integration**
+     - Plotting DataFrames Directly
+   - **Seaborn Integration**
+     - Enhancing Plots with Seaborn
+8. **Saving and Exporting**
+   - **Saving Plots**
+     - Saving as PNG, PDF, SVG, etc.
+     - Adjusting Resolution
+   - **Exporting to Other Formats**
+     - Exporting to LaTeX
+     - Saving Interactive Plots
+9. **Case Studies and Applications**
+   - **Scientific Visualization**
+     - Plotting Mathematical Functions
+     - Visualizing Simulation Data
+   - **Financial Data Visualization**
+     - Stock Price Trends
+     - Financial Indicators
+   - **Geospatial Data Visualization**
+     - Plotting Maps
+     - Visualizing Geospatial Data
+10. **Conclusion**
+11. **References**
+
+Reference and Details: [Matplotlib for Data Visualization - Simple Guide and Features](./matplotlib-for-data-visualization).
 
 ## Basic Statistics
 
@@ -273,7 +339,11 @@ Pass
 
 Pass
 
-## Feature Engineering, Model Selection
+## Feature Engineering
+
+Pass
+
+## Model Tuning
 
 Pass
 
@@ -285,23 +355,11 @@ Pass
 
 Pass
 
-## Natural Language Processing-1
+## Natural Language Processing
 
 Pass
 
-## Natural Language Processing-2
-
-Pass
-
-## Computer Vision-1
-
-Pass
-
-## Computer Vision-2
-
-Pass
-
-## Computer Vision-3
+## Computer Vision
 
 Pass
 
