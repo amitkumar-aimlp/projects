@@ -36,6 +36,17 @@
     <main id="content" class="main-content" role="main">
       {% include breadcrumbs.html %}
       {{ content }}
+      {% comment %}
+      <!-- Only show related pages on a page when `related: true` -->
+      {% endcomment %}
+      {% if page.id and page.related %}
+        <div class="wrapper">
+          <h2>Enjoy Reading This Article?</h2>
+          <p>Here are some more articles you might like to read next:</p>
+          {% include related.html %}
+        </div>
+      {% endif %}
+
       <!--Code for Disqus App-->
       {% include disqus.html %}
       <footer class="site-footer">
