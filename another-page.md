@@ -8,6 +8,8 @@ description: This is just another page
 
 Hope you are doing great.
 
+Link: [Back](./)
+
 ## Markdown Checkboxes
 
 - [ ] Incomplete
@@ -28,5 +30,3 @@ Footnote-1 [^2]
 
 [^1]: Footnote-1
 [^2]: Footnote-2
-
-[Back](./)
