@@ -1,11 +1,19 @@
 ---
 layout: default
-title: Applied Statistics: An Overview
+title: Applied Statistics - An Overview
 description: Discover the fundamentals of applied statistics, including data collection, analysis, probability, regression, and more. Explore how applied statistics is used in business, healthcare, engineering, and other fields.
 author: "Amit Kumar"
 date: "2020-01-10"
 categories: [Applied Statistics, Business Statistics, Guide, Documentation]
-tags: [Applied Statistics, Business Statistics, Syntax, Examples, Guide, Documentation]
+tags:
+  [
+    Applied Statistics,
+    Business Statistics,
+    Syntax,
+    Examples,
+    Guide,
+    Documentation,
+  ]
 published: true
 comments: true
 ---
