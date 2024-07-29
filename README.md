@@ -13,7 +13,7 @@
 - [Pandas Vs. PySpark: A Comprehensive Comparison](#pandas-vs-pyspark-a-comprehensive-comparison)
 - [Matplotlib for Data Visualization](#matplotlib-for-data-visualization)
 - [Applied Statistics: An Overview](#applied-statistics-an-overview)
-- [Supervised Learning](#supervised-learning)
+- [Supervised Learning: A Simple Guide](#supervised-learning-a-simple-guide)
 - [Unsupervised Learning](#unsupervised-learning)
 - [Ensemble Learning](#ensemble-learning)
 - [Feature Engineering](#feature-engineering)
@@ -287,9 +287,26 @@ Reference and Details: [Matplotlib for Data Visualization - Simple Guide and Fea
 
 Reference and Details: [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview).
 
-### Supervised Learning
+### Supervised Learning: A Simple Guide
 
-Pass
+1. **Introduction**
+2. **Key Features**
+   - Labeled Data
+   - Training and Testing Phases
+   - Algorithms
+   - Evaluation Metrics
+   - Overfitting and Underfitting
+   - Hyperparameter Tuning
+   - Feature Engineering
+   - Data Preprocessing
+   - Applications
+3. **Challenges**
+4. **Videos: A Gentle Introduction to Machine Learning**
+5. **Conclusion**
+6. **Related Content**
+7. **References**
+
+Reference and Details: [Supervised Learning: A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide).
 
 ### Unsupervised Learning
 
