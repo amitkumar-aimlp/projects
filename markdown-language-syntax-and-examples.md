@@ -15,6 +15,7 @@ comments: true
 - [Markdown Language: Syntax and Examples](#markdown-language-syntax-and-examples)
 - [Some Special Features of Markdown Language](#some-special-features-of-markdown-language)
 - [Videos: Learn Markdown in 30 Minutes!](#videos-learn-markdown-in-30-minutes)
+- [Related Content](#related-content)
 - [References](#references)
 
 {% include reading-time.html %}
@@ -87,6 +88,17 @@ This video provides a comprehensive and easy-to-follow guide to mastering Markdo
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
   <iframe src="https://www.youtube.com/embed/bTVIMt3XllM" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 </div>
+
+## Related Content
+
+- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples)
+- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide)
+- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide)
+- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison)
+- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide)
+- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison)
+- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization)
+- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview)
 
 ## References
 
