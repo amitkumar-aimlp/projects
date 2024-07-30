@@ -14,9 +14,9 @@
 - [Matplotlib for Data Visualization](#matplotlib-for-data-visualization)
 - [Applied Statistics: An Overview](#applied-statistics-an-overview)
 - [Supervised Learning: A Simple Guide](#supervised-learning-a-simple-guide)
-- [Unsupervised Learning](#unsupervised-learning)
-- [Ensemble Learning](#ensemble-learning)
-- [Feature Engineering](#feature-engineering)
+- [Unsupervised Learning: A Simple Guide](#unsupervised-learning-a-simple-guide)
+- [Ensemble Learning Methods](#ensemble-learning-methods)
+- [Feature Engineering: An Overview](#feature-engineering-an-overview)
 - [Hyperparameter Optimization](#hyperparameter-optimization)
 - [Recommender Systems](#recommender-systems)
 - [Deep Learning](#deep-learning)
@@ -308,21 +308,157 @@ Reference and Details: [Applied Statistics: An Overview](https://amitkumar-aimlp
 
 Reference and Details: [Supervised Learning: A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide).
 
-### Unsupervised Learning
+### Unsupervised Learning: A Simple Guide
 
-Pass
+1. **Introduction**
+2. **Key Concepts**
+   - What is Unsupervised Learning?
+     - Key Characteristics
+   - Types of Unsupervised Learning
+3. **Clustering**
+   - K-Means Clustering
+     - Overview
+     - Steps
+     - Advantages and Disadvantages
+   - Hierarchical Clustering
+     - Overview
+     - Types
+     - Advantages and Disadvantages
+   - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+     - Overview
+     - Advantages
+     - Disadvantages
+4. **Dimensionality Reduction**
+   - Principal Component Analysis (PCA)
+     - Overview
+     - Steps
+     - Applications
+   - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+     - Overview
+     - Advantages
+     - Disadvantages
+5. **Association**
+   - Apriori Algorithm
+     - Overview
+     - Steps
+     - Applications
+   - Eclat Algorithm
+     - Overview
+     - Advantages
+     - Applications
+6. **Algorithms for Anomaly Detection**
+   - Isolation Forest
+     - Overview
+     - Advantages
+     - Applications
+   - One-Class SVM
+     - Overview
+     - Advantages
+     - Applications
+7. **Applications of Unsupervised Learning**
+   - Customer Segmentation
+     - Benefits
+   - Anomaly Detection
+     - Benefits
+   - Market Basket Analysis
+     - Benefits
+   - Dimensionality Reduction for Data Visualization
+     - Benefits
+   - Recommendation Systems
+     - Benefits
+8. **Advantages and Disadvantages**
+   - Advantages
+     - Additional Advantages
+   - Disadvantages
+     - Additional Disadvantages
+9. **Tools and Libraries for Unsupervised Learning**
+   - Python Libraries
+   - R Libraries
+   - Additional Tools
+10. **Videos: Unsupervised Learning Key Concepts**
+11. **Conclusion**
+12. **Related Content**
+13. **References**
 
-### Ensemble Learning
+Reference and Details: [Unsupervised Learning: A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide).
 
-Pass
+### Ensemble Learning Methods
 
-### Feature Engineering
+1. **Introduction**
+2. **Types of Ensemble Methods**
+   - Bagging (Bootstrap Aggregating)
+   - Boosting
+   - Stacking (Stacked Generalization)
+   - Voting
+3. **Ensemble Learning Techniques**
+   - Model Averaging
+   - Bagging and Boosting Variants
+4. **Benefits of Ensemble Learning**
+5. **Challenges of Ensemble Learning**
+6. **Applications**
+7. **Case Studies and Examples**
+8. **Future Directions**
+9. **Videos: Bootstrapping**
+10. **Conclusion**
+11. **Related Content**
+12. **References**
 
-Pass
+Reference and Details: [Ensemble Learning - Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods).
+
+### Feature Engineering: An Overview
+
+1. **Introduction**
+2. **Key Components of Feature Engineering**
+   - Understanding the Data
+   - Data Cleaning
+   - Feature Creation
+   - Feature Selection
+   - Feature Scaling
+   - Feature Encoding
+   - Feature Interaction
+   - Dimensionality Reduction
+   - Automated Feature Engineering
+   - Challenges and Considerations
+3. **Best Practices**
+4. **Videos: Feature Engineering - Key Concepts**
+5. **Conclusion**
+6. **Related Content**
+7. **References**
+
+Reference and Details: [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview).
 
 ### Hyperparameter Optimization
 
-Pass
+1. **Introduction to Model Tuning**
+2. **Importance of Model Tuning**
+3. **Key Concepts in Model Tuning**
+   - 1. Hyperparameters vs. Parameters
+   - 2. Cross-Validation
+4. **Techniques for Model Tuning**
+   - 1. Grid Search
+   - 2. Random Search
+   - 3. Bayesian Optimization
+   - 4. Genetic Algorithms
+5. **Best Practices in Model Tuning**
+   - 1. Start Simple
+   - 2. Use Cross-Validation
+   - 3. Monitor for Overfitting
+   - 4. Balance Performance and Complexity
+6. **Common Hyperparameters to Tune**
+   - 1. Decision Trees
+   - 2. Support Vector Machines (SVM)
+   - 3. Neural Networks
+7. **Tools and Libraries for Model Tuning**
+   - 1. Scikit-learn
+   - 2. Keras Tuner
+   - 3. Hyperopt
+   - 4. Optuna
+8. **Videos: Hyperparameter Optimization with Scikit-learn and Optuna**
+9. **Conclusion**
+10. **Related Content**
+11. **References**
+
+Reference and Details: [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization).
 
 ### Recommender Systems
 
