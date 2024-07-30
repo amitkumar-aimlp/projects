@@ -45,7 +45,7 @@ Reference and Details: [Markdown Language: Syntax and Examples](https://amitkuma
 5. **Python in Automation and Scripting**
 6. **Scientific Computing with Python**
 7. **Python in Internet of Things (IoT)**
-8. **Python Videos and Roadmap to Mastery**
+8. **Videos: Roadmap to Master Python**
 9. **Conclusion**
 10. **Related Content**
 11. **References**
