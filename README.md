@@ -12,42 +12,43 @@
 - [PySpark Using DataBricks: A Comprehensive Guide](#pyspark-using-databricks-a-comprehensive-guide)
 - [Pandas Vs. PySpark: A Comprehensive Comparison](#pandas-vs-pyspark-a-comprehensive-comparison)
 - [Matplotlib for Data Visualization](#matplotlib-for-data-visualization)
-- [Basic Statistics](#basic-statistics)
-- [Applied Statistics](#applied-statistics)
-- [Supervised Learning](#supervised-learning)
+- [Applied Statistics: An Overview](#applied-statistics-an-overview)
+- [Supervised Learning: A Simple Guide](#supervised-learning-a-simple-guide)
 - [Unsupervised Learning](#unsupervised-learning)
-- [Ensemble Techniques](#ensemble-techniques)
-- [Feature Engineering, Model Selection](#feature-engineering-model-selection)
-- [Recommendation Systems](#recommendation-systems)
+- [Ensemble Learning](#ensemble-learning)
+- [Feature Engineering](#feature-engineering)
+- [Hyperparameter Optimization](#hyperparameter-optimization)
+- [Recommender Systems](#recommender-systems)
 - [Deep Learning](#deep-learning)
-- [Natural Language Processing-1](#natural-language-processing-1)
-- [Natural Language Processing-2](#natural-language-processing-2)
-- [Computer Vision-1](#computer-vision-1)
-- [Computer Vision-2](#computer-vision-2)
-- [Computer Vision-3](#computer-vision-3)
+- [Semi-supervised Learning](#semi-supervised-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Computer Vision](#computer-vision)
+- [Time Series Analysis](#time-series-analysis)
 
 ### Markdown Language: Syntax and Examples
 
 1. **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
-
 2. **Extended Syntax:** Tables, Fenced Code Blocks, Footnotes, Heading IDs, Definition Lists, Strikethrough, Task Lists, Emoji, Highlight, Subscript, Superscript, Automatic URL Linking
-
 3. **Hacks:** Underline, Indent, Center, Color, Comments, Admonitions, Image Size, Image Captions, Link Targets, Symbols, Table Formatting, Table of Contents, Videos
+4. **Videos: Learn Markdown in 30 Minutes!**
+5. **Related Content**
+6. **References**
 
 Reference and Details: [Markdown Language: Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples).
 
 ### Python Programming Language: Syntax and Examples
 
-1. **Overview/Basics**
-2. **Lists**
-3. **Dictionaries**
-4. **If Statements; While Loops**
-5. **Functions**
-6. **Classes**
-7. **Files and Exceptions**
-8. **Testing your Code**
-9. **Matplotlib**
-10. **Plotly**
+1. **Introduction: Exploring the Versatility of Python**
+2. **Key Features of Python**
+3. **Python in Web Development**
+4. **Python for Data Science and Machine Learning**
+5. **Python in Automation and Scripting**
+6. **Scientific Computing with Python**
+7. **Python in Internet of Things (IoT)**
+8. **Videos: Roadmap to Master Python**
+9. **Conclusion**
+10. **Related Content**
+11. **References**
 
 Reference and Details: [Python Programming Language: Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples).
 
@@ -55,33 +56,35 @@ Reference and Details: [Python Programming Language: Syntax and Examples](https:
 
 1. **Introduction to NumPy**
 2. **Key Features of NumPy**
-   1. Arrays and Data Structures
-   2. Universal Functions (ufunc)
-   3. Broadcasting
-   4. Indexing and Slicing
-   5. Array Manipulation
-   6. Mathematical Functions
-   7. Random Number Generation
-   8. File I/O
-   9. Integration with Other Libraries
+   - Arrays and Data Structures
+   - Universal Functions (ufunc)
+   - Broadcasting
+   - Indexing and Slicing
+   - Array Manipulation
+   - Mathematical Functions
+   - Random Number Generation
+   - File I/O
+   - Integration with Other Libraries
 3. **Performance and Efficiency**
 4. **Applications of NumPy**
-   1. Data Analysis
-   2. Machine Learning
-   3. Scientific Computing
+   - Data Analysis
+   - Machine Learning
+   - Scientific Computing
 5. **Best Practices with NumPy**
-   1. Efficient Memory Management
-   2. Vectorization
-   3. Code Optimization
-   4. Error Handling and Debugging
-6. **Conclusion**
-7. **Further Resources**
+   - Efficient Memory Management
+   - Vectorization
+   - Code Optimization
+   - Error Handling and Debugging
+6. **Videos: Learn NumPy in an Hour**
+7. **Conclusion**
+8. **Related Content**
+9. **References**
 
 Reference and Details: [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide).
 
 ### Pandas for Data Science
 
-1. **Introduction**
+1. **Introduction to Pandas**
 2. **Key Features of Pandas**
    - Data Structures
      - Series
@@ -89,9 +92,9 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](https://a
      - Panel (deprecated)
    - Data Alignment
    - Handling Missing Data
-     - isna() and notna() functions
-     - fillna() method
-     - dropna() method
+     - `isna()` and `notna()` functions
+     - `fillna()` method
+     - `dropna()` method
    - Data Manipulation
      - Indexing and Selection
      - Data Transformation
@@ -130,7 +133,10 @@ Reference and Details: [NumPy for Data Science: A Comprehensive Guide](https://a
    - Data Visualization Integration
      - Seaborn Integration
      - Plotly Integration
-3. **Conclusion**
+3. **Videos: Comprehensive tutorial for Pandas**
+4. **Conclusion**
+5. **Related Content**
+6. **References**
 
 Reference and Details: [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide).
 
@@ -167,8 +173,11 @@ Reference and Details: [Pandas for Data Science: A Comprehensive Guide](https://
 29. **Cross-Platform Compatibility**
 30. **Learning Curve**
 31. **Use Cases**
-32. **Conclusion**
-33. **References**
+32. **Videos: Learn SQL with Great Ease**
+33. **Pandas Vs SQL: Comparison Table**
+34. **Conclusion**
+35. **Related Content**
+36. **References**
 
 Reference and Details: [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison).
 
@@ -202,8 +211,10 @@ Reference and Details: [Pandas Vs. SQL: A Comprehensive Comparison](https://amit
 8. **Integrations and Extensions**
    - Integration with Other Tools
    - Databricks Connect
-9. **Conclusion**
-10. **References**
+9. **Videos: Simple PySpark Tutorial**
+10. **Conclusion**
+11. **Related Content**
+12. **References**
 
 Reference and Details: [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide).
 
@@ -219,8 +230,10 @@ Reference and Details: [PySpark Using Databricks: A Comprehensive Guide](https:/
 8. **Performance Optimization**
 9. **Use Cases**
 10. **Community and Support**
-11. **Conclusion**
-12. **References**
+11. **Pandas Vs. PySpark: Comparison Table**
+12. **Conclusion**
+13. **Related Content**
+14. **References**
 
 Reference and Details: [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison).
 
@@ -229,98 +242,89 @@ Reference and Details: [Pandas Vs. PySpark: A Comprehensive Comparison](https://
 1. **Introduction**
 2. **Installation**
 3. **Basic Plotting**
-   - **Creating a Simple Plot**
-     - Line Plot
-     - Scatter Plot
-     - Bar Plot
-     - Histogram
-     - Pie Chart
-   - **Customizing Plots**
-     - Titles and Labels
-     - Legends
-     - Gridlines
-     - Annotations
 4. **Advanced Plotting Features**
-   - **Subplots**
-     - Creating Multiple Plots
-     - Adjusting Layouts
-   - **3D Plotting**
-     - Creating 3D Plots
-     - Surface Plots
-     - Wireframe Plots
-   - **Animations**
-     - Creating Animations
-     - Saving Animations
 5. **Customization and Styling**
-   - **Color and Styles**
-     - Customizing Colors
-     - Using Different Line Styles
-     - Marker Styles
-   - **Themes**
-     - Using Built-in Themes
-     - Creating Custom Themes
-   - **Figures and Axes**
-     - Adjusting Figure Size
-     - Modifying Axes
 6. **Interactivity**
-   - **Interactive Plots**
-     - Using Interactive Backends
-     - Zooming and Panning
-   - **Widgets**
-     - Adding Sliders
-     - Buttons and Menus
 7. **Integration with Other Libraries**
-   - **Pandas Integration**
-     - Plotting DataFrames Directly
-   - **Seaborn Integration**
-     - Enhancing Plots with Seaborn
 8. **Saving and Exporting**
-   - **Saving Plots**
-     - Saving as PNG, PDF, SVG, etc.
-     - Adjusting Resolution
-   - **Exporting to Other Formats**
-     - Exporting to LaTeX
-     - Saving Interactive Plots
 9. **Case Studies and Applications**
-   - **Scientific Visualization**
-     - Plotting Mathematical Functions
-     - Visualizing Simulation Data
-   - **Financial Data Visualization**
-     - Stock Price Trends
-     - Financial Indicators
-   - **Geospatial Data Visualization**
-     - Plotting Maps
-     - Visualizing Geospatial Data
-10. **Conclusion**
-11. **References**
+10. **Videos: Data Visualization with Matplotlib**
+11. **Conclusion**
+12. **Related Content**
+13. **References**
 
 Reference and Details: [Matplotlib for Data Visualization - Simple Guide and Features](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization).
 
-### Basic Statistics
+### Applied Statistics: An Overview
 
-Pass
+1. **Introduction to Applied Statistics**
+2. **Key Features of Applied Statistics**
+   - 2.1 Data Collection
+   - 2.2 Data Analysis
+   - 2.3 Probability
+   - 2.4 Regression Analysis
+   - 2.5 ANOVA (Analysis of Variance)
+   - 2.6 Non-Parametric Methods
+   - 2.7 Time Series Analysis
+   - 2.8 Multivariate Analysis
+   - 2.9 Statistical Software and Tools
+3. **Applied Statistics: Thinking, Not a Toolbox**
+4. **Applications of Applied Statistics**
+   - Business and Economics
+   - Healthcare
+   - Engineering
+   - Social Sciences
+   - Environmental Science
+   - Sports Analytics
+   - Marketing
+   - Telecommunications
+   - Agriculture
+   - Education
+5. **Videos: Statistics Fundamentals**
+6. **Conclusion**
+7. **Related Content**
+8. **References**
 
-### Applied Statistics
+Reference and Details: [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview).
 
-Pass
+### Supervised Learning: A Simple Guide
 
-### Supervised Learning
+1. **Introduction**
+2. **Key Features**
+   - Labeled Data
+   - Training and Testing Phases
+   - Algorithms
+   - Evaluation Metrics
+   - Overfitting and Underfitting
+   - Hyperparameter Tuning
+   - Feature Engineering
+   - Data Preprocessing
+   - Applications
+3. **Challenges**
+4. **Videos: A Gentle Introduction to Machine Learning**
+5. **Conclusion**
+6. **Related Content**
+7. **References**
 
-Pass
+Reference and Details: [Supervised Learning: A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide).
 
 ### Unsupervised Learning
 
 Pass
 
-### Ensemble Techniques
+### Ensemble Learning
 
 Pass
 
-### Feature Engineering, Model Selection
+### Feature Engineering
 
 Pass
 
-### Recommendation Systems
+### Hyperparameter Optimization
+
+Pass
+
+### Recommender Systems
 
 Pass
 
@@ -328,25 +332,19 @@ Pass
 
 Pass
 
-### Natural Language Processing-1
+### Semi-supervised Learning
 
 Pass
 
-### Natural Language Processing-2
+### Natural Language Processing
 
 Pass
 
-### Computer Vision-1
+### Computer Vision
 
 Pass
 
-### Computer Vision-2
-
-Pass
-
-### Computer Vision-3
-
-Pass
+### Time Series Analysis
 
 ---
 

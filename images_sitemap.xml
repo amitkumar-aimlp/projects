@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -37,8 +37,17 @@
       </image:image>
   </url>
   <url>
+    <loc>https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization/</loc>
+    <lastmod>2024-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://amitkumar-aimlp.github.io/projects/assets/matplotlib/data-visualization-in-python.png</image:loc>
+      </image:image>
+  </url>
+  <url>
     <loc>https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -49,17 +58,17 @@
       </image:image>
   </url>
   <url>
-    <loc>https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <loc>https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/</loc>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
-        <image:loc>https://amitkumar-aimlp.github.io/projects/assets/matplotlib/data-visualization-in-python.png</image:loc>
+        <image:loc>https://amitkumar-aimlp.github.io/projects/assets/applied-statistics/business-analytics-capability-chart.png</image:loc>
       </image:image>
   </url>
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -68,7 +77,7 @@
   </url>
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
@@ -77,11 +86,20 @@
   </url>
   <url>
     <loc>https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison/</loc>
-    <lastmod>2024-07-23</lastmod>
+    <lastmod>2024-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
       <image:image>
         <image:loc>https://amitkumar-aimlp.github.io/projects/assets/pandas/pandas-vs-sql.png</image:loc>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/</loc>
+    <lastmod>2024-07-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+      <image:image>
+        <image:loc>https://amitkumar-aimlp.github.io/projects/assets/supervised-learning/supervised-learning.png</image:loc>
       </image:image>
   </url>
 </urlset>
