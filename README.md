@@ -15,7 +15,7 @@
 - [Applied Statistics: An Overview](#applied-statistics-an-overview)
 - [Supervised Learning: A Simple Guide](#supervised-learning-a-simple-guide)
 - [Unsupervised Learning: A Simple Guide](#unsupervised-learning-a-simple-guide)
-- [Ensemble Learning](#ensemble-learning)
+- [Ensemble Learning Methods](#ensemble-learning-methods)
 - [Feature Engineering](#feature-engineering)
 - [Hyperparameter Optimization](#hyperparameter-optimization)
 - [Recommender Systems](#recommender-systems)
@@ -382,9 +382,28 @@ Reference and Details: [Supervised Learning: A Simple Guide](https://amitkumar-a
 
 Reference and Details: [Unsupervised Learning: A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide).
 
-### Ensemble Learning
+### Ensemble Learning Methods
 
-Pass
+1. **Introduction**
+2. **Types of Ensemble Methods**
+   - Bagging (Bootstrap Aggregating)
+   - Boosting
+   - Stacking (Stacked Generalization)
+   - Voting
+3. **Ensemble Learning Techniques**
+   - Model Averaging
+   - Bagging and Boosting Variants
+4. **Benefits of Ensemble Learning**
+5. **Challenges of Ensemble Learning**
+6. **Applications**
+7. **Case Studies and Examples**
+8. **Future Directions**
+9. **Videos: Bootstrapping**
+10. **Conclusion**
+11. **Related Content**
+12. **References**
+
+Reference and Details: [Ensemble Learning - Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods).
 
 ### Feature Engineering
 
