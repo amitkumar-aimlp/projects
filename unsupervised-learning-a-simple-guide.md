@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unsupervised Learning - A Simple Guide | Key Concepts, Algorithms, and Applications
+title: Unsupervised Learning - A Simple Guide
 description: Discover the essentials of unsupervised learning with our comprehensive guide. Explore key concepts, popular algorithms like K-Means and PCA, and real-world applications. Perfect for beginners and data enthusiasts alike.
 author: "Amit Kumar"
 date: "2020-01-12"
