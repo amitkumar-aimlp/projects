@@ -267,7 +267,7 @@ Supervised learning is a foundational technique in machine learning that relies 
 
 > ### In the confrontation between the stream and the rock, the stream always wins, not through strength, but through persistence.
 >
-> – Buddha
+> –Buddha
 
 ---
 

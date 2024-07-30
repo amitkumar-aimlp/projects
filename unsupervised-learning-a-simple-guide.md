@@ -448,7 +448,7 @@ Unsupervised learning is a powerful tool in the field of machine learning. It he
 
 > ### Whatever we think about and thank about, we bring about.
 >
-> - Wayne Dyer
+> -Wayne Dyer
 
 ---
 
