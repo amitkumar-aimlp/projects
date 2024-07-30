@@ -14,7 +14,7 @@
 - [Matplotlib for Data Visualization](#matplotlib-for-data-visualization)
 - [Applied Statistics: An Overview](#applied-statistics-an-overview)
 - [Supervised Learning: A Simple Guide](#supervised-learning-a-simple-guide)
-- [Unsupervised Learning](#unsupervised-learning)
+- [Unsupervised Learning: A Simple Guide](#unsupervised-learning-a-simple-guide)
 - [Ensemble Learning](#ensemble-learning)
 - [Feature Engineering](#feature-engineering)
 - [Hyperparameter Optimization](#hyperparameter-optimization)
@@ -308,9 +308,79 @@ Reference and Details: [Applied Statistics: An Overview](https://amitkumar-aimlp
 
 Reference and Details: [Supervised Learning: A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide).
 
-### Unsupervised Learning
+### Unsupervised Learning: A Simple Guide
 
-Pass
+1. **Introduction**
+2. **Key Concepts**
+   - What is Unsupervised Learning?
+     - Key Characteristics
+   - Types of Unsupervised Learning
+3. **Clustering**
+   - K-Means Clustering
+     - Overview
+     - Steps
+     - Advantages and Disadvantages
+   - Hierarchical Clustering
+     - Overview
+     - Types
+     - Advantages and Disadvantages
+   - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+     - Overview
+     - Advantages
+     - Disadvantages
+4. **Dimensionality Reduction**
+   - Principal Component Analysis (PCA)
+     - Overview
+     - Steps
+     - Applications
+   - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+     - Overview
+     - Advantages
+     - Disadvantages
+5. **Association**
+   - Apriori Algorithm
+     - Overview
+     - Steps
+     - Applications
+   - Eclat Algorithm
+     - Overview
+     - Advantages
+     - Applications
+6. **Algorithms for Anomaly Detection**
+   - Isolation Forest
+     - Overview
+     - Advantages
+     - Applications
+   - One-Class SVM
+     - Overview
+     - Advantages
+     - Applications
+7. **Applications of Unsupervised Learning**
+   - Customer Segmentation
+     - Benefits
+   - Anomaly Detection
+     - Benefits
+   - Market Basket Analysis
+     - Benefits
+   - Dimensionality Reduction for Data Visualization
+     - Benefits
+   - Recommendation Systems
+     - Benefits
+8. **Advantages and Disadvantages**
+   - Advantages
+     - Additional Advantages
+   - Disadvantages
+     - Additional Disadvantages
+9. **Tools and Libraries for Unsupervised Learning**
+   - Python Libraries
+   - R Libraries
+   - Additional Tools
+10. **Videos: Unsupervised Learning Key Concepts**
+11. **Conclusion**
+12. **Related Content**
+13. **References**
+
+Reference and Details: [Unsupervised Learning: A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide).
 
 ### Ensemble Learning
 
