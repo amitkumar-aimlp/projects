@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ensemble Learning - Comprehensive Guide to Techniques, Benefits, and Applications
+title: Ensemble Learning Methods - Guide to Techniques, Benefits, and Applications
 description: Explore the essentials of Ensemble Learning, including types like Bagging, Boosting, and Stacking. Learn about key techniques, benefits, challenges, and real-world applications in this detailed guide.
 author: "Amit Kumar"
 date: "2020-01-13"
@@ -199,37 +199,26 @@ Ensemble learning is a powerful technique that combines the strengths of multipl
 
 1. **Breiman, L.** (1996). _Bagging Predictors_. Machine Learning, 24(2), 123-140.  
    [Bagging Predictors](https://link.springer.com/article/10.1007/BF00058655)
-
 2. **Breiman, L.** (2001). _Random Forests_. Machine Learning, 45(1), 5-32.  
    [Random Forests](https://link.springer.com/article/10.1023/A:1010933404324)
-
 3. **Friedman, J. H.** (2001). _Greedy Function Approximation: A Gradient Boosting Machine_. Annals of Statistics, 29(5), 1189-1232.  
    [Greedy Function Approximation](https://projecteuclid.org/euclid.aos/1183143727)
-
 4. **Chen, T., & Guestrin, C.** (2016). _XGBoost: A Scalable Tree Boosting System_. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 785-794).  
    [XGBoost: A Scalable Tree Boosting System](https://dl.acm.org/doi/10.1145/2939672.2939785)
-
 5. **Freund, Y., & Schapire, R. E.** (1997). _A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting_. In European Conference on Computational Learning Theory (pp. 23-37).  
    [A Decision-Theoretic Generalization of On-Line Learning](https://link.springer.com/chapter/10.1007/3-540-63107-0_5)
-
 6. **Hastie, T., Tibshirani, R., & Friedman, J.** (2009). _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_ (2nd ed.). Springer.  
    [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
 7. **Wolpert, D. H.** (1992). _Stacked Generalization_. Neural Networks, 5(2), 241-259.  
    [Stacked Generalization](https://www.sciencedirect.com/science/article/pii/S0893608005800865)
-
 8. **Rokach, L., & Maimon, O.** (2008). _Ensemble Methods for Classification and Regression_. In Data Mining and Knowledge Discovery Handbook (pp. 1009-1033). Springer.  
    [Ensemble Methods for Classification and Regression](https://link.springer.com/chapter/10.1007/978-0-387-09823-4_60)
-
 9. **Xia, Y., & Liu, H.** (2017). _A Comprehensive Review of Ensemble Deep Learning: Opportunities and Challenges_. IEEE Access, 5, 828-844.  
    [A Comprehensive Review of Ensemble Deep Learning](https://ieeexplore.ieee.org/document/7888645)
-
 10. **Kuhn, M., & Johnson, K.** (2013). _Applied Predictive Modeling_. Springer.  
     [Applied Predictive Modeling](https://www.springer.com/gp/book/9781461468486)
-
 11. **Zhou, Z.-H.** (2012). _Ensemble Methods: Foundations and Algorithms_. CRC Press.  
     [Ensemble Methods: Foundations and Algorithms](https://www.crcpress.com/Ensemble-Methods-Foundations-and-Algorithms/Zhou/p/book/9781439816265)
-
 12. **Mitchell, T. M.** (1997). _Machine Learning_. McGraw-Hill.  
     [Machine Learning](https://www.amazon.com/Machine-Learning-Tom-Mitchell/dp/0070428077)
 13. [Bias–Variance Tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
