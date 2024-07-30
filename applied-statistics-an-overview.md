@@ -321,4 +321,6 @@ Applied statistics is a crucial tool in various fields, providing the methods an
 
 _Published: 2020-01-10; Updated: 2024-05-01_
 
+---
+
 [TOP](#contents)
