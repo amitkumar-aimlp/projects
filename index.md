@@ -39,7 +39,7 @@ published: true
 - [Supervised Learning: A Simple Guide](#supervised-learning-a-simple-guide)
 - [Unsupervised Learning: A Simple Guide](#unsupervised-learning-a-simple-guide)
 - [Ensemble Learning Methods](#ensemble-learning-methods)
-- [Feature Engineering](#feature-engineering)
+- [Feature Engineering: An Overview](#feature-engineering-an-overview)
 - [Hyperparameter Optimization](#hyperparameter-optimization)
 - [Recommender Systems](#recommender-systems)
 - [Deep Learning](#deep-learning)
@@ -430,9 +430,27 @@ Reference and Details: [Unsupervised Learning: A Simple Guide](./unsupervised-le
 
 Reference and Details: [Ensemble Learning - Methods](./ensemble-learning-methods).
 
-## Feature Engineering
+## Feature Engineering: An Overview
 
-Pass
+1. **Introduction**
+2. **Key Components of Feature Engineering**
+   - Understanding the Data
+   - Data Cleaning
+   - Feature Creation
+   - Feature Selection
+   - Feature Scaling
+   - Feature Encoding
+   - Feature Interaction
+   - Dimensionality Reduction
+   - Automated Feature Engineering
+   - Challenges and Considerations
+3. **Best Practices**
+4. **Videos: Feature Engineering - Key Concepts**
+5. **Conclusion**
+6. **Related Content**
+7. **References**
+
+Reference and Details: [Feature Engineering - An Overview](./feature-engineering-an-overview).
 
 ## Hyperparameter Optimization
 
