@@ -42,7 +42,7 @@ published: true
 - [Feature Engineering: An Overview](#feature-engineering-an-overview)
 - [Hyperparameter Optimization](#hyperparameter-optimization)
 - [Recommender Systems](#recommender-systems)
-- [Deep Learning](#deep-learning)
+- [Deep Learning Fundamentals](#deep-learning-fundamentals)
 - [Semi-supervised Learning](#semi-supervised-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Vision](#computer-vision)
@@ -487,15 +487,196 @@ Reference and Details: [Hyperparameter Optimization](./hyperparameter-optimizati
 
 ## Recommender Systems
 
-Pass
+1. **Introduction to Recommender Systems**
+2. **Types of Recommender Systems**
+   - 2.1 Content-Based Filtering
+   - 2.2 Collaborative Filtering
+   - 2.3 Hybrid Methods
+3. **Components of Recommender Systems**
+   - 3.1 Data Collection
+   - 3.2 Data Preprocessing
+   - 3.3 Model Building
+   - 3.4 Deployment
+4. **Evaluation Metrics**
+   - 4.1 Accuracy Metrics
+   - 4.2 Classification Metrics
+   - 4.3 Ranking Metrics
+   - 4.4 Diversity and Novelty
+5. **Challenges and Future Directions**
+   - 5.1 Cold Start Problem
+   - 5.2 Scalability
+   - 5.3 Privacy and Ethical Issues
+   - 5.4 Explainability
+6. **Advanced Techniques in Recommender Systems**
+   - 6.1 Deep Learning-Based Recommenders
+   - 6.2 Graph-Based Recommenders
+   - 6.3 Context-Aware Recommender Systems
+7. **Applications of Recommender Systems**
+   - 7.1 E-commerce
+   - 7.2 Streaming Services
+   - 7.3 Social Networks
+   - 7.4 Healthcare
+8. **Conclusion**
+9. **Related Content**
+10. **References**
 
-## Deep Learning
+Reference and Details: [Recommender Systems](./recommender-systems).
 
-Pass
+## Deep Learning Fundamentals
+
+1. **Introduction to Deep Learning**
+   - **1.1 What is Deep Learning?**
+     - Definition
+     - Relation to Machine Learning
+     - Historical Context
+   - **1.2 Importance and Applications**
+     - Image Recognition
+     - Natural Language Processing (NLP)
+     - Speech Recognition
+     - Autonomous Systems
+     - Healthcare
+     - Finance
+2. **Core Concepts**
+   - **2.1 Neural Networks**
+     - Overview of Neural Networks
+     - Structure: Neurons, Layers, and Weights
+     - Activation Functions
+   - **2.2 Architecture of Deep Neural Networks**
+     - Feedforward Neural Networks (FNN)
+     - Convolutional Neural Networks (CNN)
+     - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
+     - Generative Adversarial Networks (GANs)
+     - Transformer Networks
+     - Attention Mechanisms
+   - **2.3 Training Deep Learning Models**
+     - Forward Propagation
+     - Backpropagation and Gradient Descent
+     - Loss Functions
+     - Optimization Algorithms
+     - Learning Rate Schedulers
+     - Batch Normalization
+   - **2.4 Evaluation Metrics**
+     - Classification Metrics
+     - Regression Metrics
+3. **Tools and Frameworks**
+   - **3.1 Popular Deep Learning Frameworks**
+     - TensorFlow
+     - Keras
+     - PyTorch
+     - MXNet
+     - Caffe
+   - **3.2 Software Libraries and Platforms**
+     - GPU and TPU Acceleration
+     - Cloud-Based Platforms
+   - **3.3 Development Environments**
+     - Jupyter Notebooks
+     - Colab
+     - Integrated Development Environments (IDEs) for Python
+4. **Advanced Topics**
+   - **4.1 Transfer Learning**
+     - Concept and Benefits
+     - Pretrained Models
+     - Fine-Tuning Techniques
+   - **4.2 Hyperparameter Tuning**
+     - Learning Rate
+     - Batch Size
+     - Number of Epochs
+     - Regularization Techniques
+     - Grid Search vs. Random Search vs. Bayesian Optimization
+   - **4.3 Interpretability and Explainability**
+     - Model Visualization
+     - Techniques for Explainable AI
+     - Model Debugging
+   - **4.4 Model Deployment**
+     - Deployment Strategies
+     - Serving Models
+     - Monitoring and Maintenance
+5. **Challenges and Considerations**
+   - **5.1 Overfitting and Underfitting**
+     - Definitions
+     - Techniques to Combat Overfitting
+     - Regularization Techniques
+   - **5.2 Data Requirements**
+     - Large Datasets
+     - Data Augmentation Techniques
+     - Synthetic Data Generation
+   - **5.3 Ethical and Societal Implications**
+     - Bias and Fairness
+     - Privacy Concerns
+     - Responsible AI Practices
+   - **5.4 Computational Resources**
+     - Hardware Requirements
+     - Cost Considerations
+6. **Future Trends**
+   - **6.1 Emerging Technologies**
+     - Quantum Computing in AI
+     - AI for Drug Discovery
+     - Self-Supervised Learning
+     - Neuromorphic Computing
+   - **6.2 Integration with Other Fields**
+     - AI in Robotics
+     - AI in IoT
+     - AI in Education
+   - **6.3 AI in Business**
+     - Automation
+     - Personalization
+     - Customer Service
+7. **Conclusion**
+   - **7.1 Summary of Key Points**
+   - **7.2 Future Directions**
+   - **7.3 Further Reading and Resources**
+8. **Videos: Master the Deep Learning**
+9. **Related Content**
+10. **References**
+
+Reference and Details: [Deep Learning Fundamentals](./deep-learning-fundamentals).
 
 ## Semi-supervised Learning
 
-Pass
+1. **Introduction to Semi-supervised Learning**
+   - 1.1. Definition
+   - 1.2. Importance
+2. **Types of Semi-supervised Learning**
+   - 2.1. Self-training
+   - 2.2. Co-training
+   - 2.3. Multi-view Learning
+   - 2.4. Graph-based Methods
+   - 2.5. Consistency Regularization
+3. **Techniques and Algorithms**
+   - 3.1. Pseudo-labelling
+   - 3.2. Generative Models
+   - 3.3. Graph Convolutional Networks (GCNs)
+   - 3.4. Label Propagation
+   - 3.5. Dual Learning
+   - 3.6. Teacher-Student Framework
+4. **Advantages of Semi-supervised Learning**
+   - 4.1. Efficiency
+   - 4.2. Improved Performance
+   - 4.3. Scalability
+   - 4.4. Cost-Effectiveness
+5. **Challenges in Semi-supervised Learning**
+   - 5.1. Quality of Unlabeled Data
+   - 5.2. Algorithm Complexity
+   - 5.3. Model Stability
+   - 5.4. Label Imbalance
+6. **Applications**
+   - 6.1. Text Classification
+   - 6.2. Image Recognition
+   - 6.3. Natural Language Processing
+   - 6.4. Medical Diagnosis
+   - 6.5. Speech Recognition
+   - 6.6. Anomaly Detection
+7. **Future Directions**
+   - 7.1. Integration with Deep Learning
+   - 7.2. Improved Algorithms
+   - 7.3. Real-world Applications
+   - 7.4. Ethical Considerations
+   - 7.5. User Interaction and Feedback
+8. **Videos: Semi-Supervised Learning - Techniques and Applications**
+9. **Related Content**
+10. **References**
+
+Reference and Details: [Semi-supervised Learning](./semi-supervised-learning).
 
 ## Natural Language Processing
 
