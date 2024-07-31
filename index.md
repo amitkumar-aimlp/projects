@@ -633,7 +633,50 @@ Reference and Details: [Deep Learning Fundamentals](./deep-learning-fundamentals
 
 ## Semi-supervised Learning
 
-Pass
+1. **Introduction to Semi-supervised Learning**
+   - 1.1. Definition
+   - 1.2. Importance
+2. **Types of Semi-supervised Learning**
+   - 2.1. Self-training
+   - 2.2. Co-training
+   - 2.3. Multi-view Learning
+   - 2.4. Graph-based Methods
+   - 2.5. Consistency Regularization
+3. **Techniques and Algorithms**
+   - 3.1. Pseudo-labelling
+   - 3.2. Generative Models
+   - 3.3. Graph Convolutional Networks (GCNs)
+   - 3.4. Label Propagation
+   - 3.5. Dual Learning
+   - 3.6. Teacher-Student Framework
+4. **Advantages of Semi-supervised Learning**
+   - 4.1. Efficiency
+   - 4.2. Improved Performance
+   - 4.3. Scalability
+   - 4.4. Cost-Effectiveness
+5. **Challenges in Semi-supervised Learning**
+   - 5.1. Quality of Unlabeled Data
+   - 5.2. Algorithm Complexity
+   - 5.3. Model Stability
+   - 5.4. Label Imbalance
+6. **Applications**
+   - 6.1. Text Classification
+   - 6.2. Image Recognition
+   - 6.3. Natural Language Processing
+   - 6.4. Medical Diagnosis
+   - 6.5. Speech Recognition
+   - 6.6. Anomaly Detection
+7. **Future Directions**
+   - 7.1. Integration with Deep Learning
+   - 7.2. Improved Algorithms
+   - 7.3. Real-world Applications
+   - 7.4. Ethical Considerations
+   - 7.5. User Interaction and Feedback
+8. **Videos: Semi-Supervised Learning - Techniques and Applications**
+9. **Related Content**
+10. **References**
+
+Reference and Details: [Semi-supervised Learning](./semi-supervised-learning).
 
 ## Natural Language Processing
 
