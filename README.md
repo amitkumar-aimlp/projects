@@ -22,7 +22,7 @@
 - [Deep Learning Fundamentals](#deep-learning-fundamentals)
 - [Semi-supervised Learning](#semi-supervised-learning)
 - [Natural Language Processing](#natural-language-processing)
-- [Computer Vision](#computer-vision)
+- [Computer Vision Fundamentals](#computer-vision-fundamentals)
 - [Time Series Analysis](#time-series-analysis)
 
 ### Markdown Language: Syntax and Examples
@@ -491,9 +491,10 @@ Reference and Details: [Hyperparameter Optimization](https://amitkumar-aimlp.git
    - 7.2 Streaming Services
    - 7.3 Social Networks
    - 7.4 Healthcare
-8. **Conclusion**
-9. **Related Content**
-10. **References**
+8. **Videos: Recommender Systems**
+9. **Conclusion**
+10. **Related Content**
+11. **References**
 
 Reference and Details: [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems).
 
@@ -596,11 +597,11 @@ Reference and Details: [Recommender Systems](https://amitkumar-aimlp.github.io/p
      - Automation
      - Personalization
      - Customer Service
-7. **Conclusion**
+7. **Videos: Master the Deep Learning**
+8. **Conclusion**
    - **7.1 Summary of Key Points**
    - **7.2 Future Directions**
    - **7.3 Further Reading and Resources**
-8. **Videos: Master the Deep Learning**
 9. **Related Content**
 10. **References**
 
@@ -655,11 +656,83 @@ Reference and Details: [Semi-supervised Learning](https://amitkumar-aimlp.github
 
 ### Natural Language Processing
 
-Pass
+1. **Introduction to Natural Language Processing (NLP)**
+   - 1.1. Importance of NLP
+2. **Key Components of NLP**
+   - 2.1. Tokenization
+   - 2.2. Part-of-Speech Tagging (POS Tagging)
+   - 2.3. Named Entity Recognition (NER)
+   - 2.4. Parsing
+3. **Advanced NLP Techniques**
+   - 3.1. Sentiment Analysis
+   - 3.2. Machine Translation
+   - 3.3. Text Summarization
+   - 3.4. Topic Modeling
+   - 3.5. Text Classification
+   - 3.6. Word Embeddings
+4. **Applications of NLP**
+   - 4.1. Search Engines
+   - 4.2. Chatbots and Virtual Assistants
+   - 4.3. Healthcare
+   - 4.4. Finance
+   - 4.5. Social Media Analysis
+   - 4.6. E-commerce
+5. **Challenges in NLP**
+   - 5.1. Ambiguity
+   - 5.2. Context Understanding
+   - 5.3. Resource Limitations
+   - 5.4. Language Diversity
+6. **Future Trends in NLP**
+   - 6.1. Improved Language Models
+   - 6.2. Multilingual NLP
+   - 6.3. Ethical Considerations
+   - 6.4. Interactive and Real-Time NLP
+7. **NLP Tools and Libraries**
+   - 7.1. NLTK (Natural Language Toolkit)
+   - 7.2. spaCy
+   - 7.3. Transformers by Hugging Face
+   - 7.4. Gensim
+8. **Videos: Natural Language Processing Demystified**
+9. **Conclusion**
+10. **Related Content**
+11. **References**
 
-### Computer Vision
+Reference and Details: [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing).
 
-Pass
+### Computer Vision Fundamentals
+
+1. **Introduction to Computer Vision**
+   - Definition and Scope
+   - Importance and Applications
+   - Historical Background and Evolution
+2. **Fundamentals of Computer Vision**
+   - Image Processing Basics
+   - Feature Extraction
+3. **Computer Vision Algorithms**
+   - Classical Algorithms
+   - Machine Learning Approaches
+4. **Deep Learning in Computer Vision**
+   - Convolutional Neural Networks (CNNs)
+   - Transfer Learning
+5. **Key Applications of Computer Vision**
+   - Image Classification
+   - Object Detection
+   - Image Segmentation
+   - Facial Recognition
+   - Medical Imaging
+6. **Challenges in Computer Vision**
+   - Data Quality and Quantity
+   - Computational Resources
+   - Ethical and Privacy Concerns
+7. **Future Trends in Computer Vision**
+   - Emerging Technologies
+   - Advancements in Algorithms
+8. **Videos: Computer Vision Fundamentals**
+9. **Conclusion**
+10. **Related Content**
+11. **References**
+
+Reference and Details: [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals).
 
 ### Time Series Analysis
 
