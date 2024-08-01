@@ -98,8 +98,10 @@ Computer Vision has evolved from basic image processing techniques to sophistica
 
 To grasp how computer vision systems operate, it is essential to understand their foundational elements.
 
-<div style="position: relative; padding-bottom: 1%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe src="https://drive.google.com/file/d/1hvLtt68CZ9azj3b7tof2ELKQ_2a6jTQ8/preview" width="640" height="480" allow="autoplay"></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1hvLtt68CZ9azj3b7tof2ELKQ_2a6jTQ8/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
 </div>
 
 ### Image Processing Basics
