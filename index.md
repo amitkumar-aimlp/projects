@@ -45,7 +45,7 @@ published: true
 - [Deep Learning Fundamentals](#deep-learning-fundamentals)
 - [Semi-supervised Learning](#semi-supervised-learning)
 - [Natural Language Processing](#natural-language-processing)
-- [Computer Vision](#computer-vision)
+- [Computer Vision Fundamentals](#computer-vision-fundamentals)
 - [Time Series Analysis](#time-series-analysis)
 
 {% include reading-time.html %}
@@ -724,9 +724,40 @@ Reference and Details: [Semi-supervised Learning](./semi-supervised-learning).
 
 Reference and Details: [Natural Language Processing](./natural-language-processing).
 
-## Computer Vision
+## Computer Vision Fundamentals
 
-Pass
+1. **Introduction to Computer Vision**
+   - Definition and Scope
+   - Importance and Applications
+   - Historical Background and Evolution
+2. **Fundamentals of Computer Vision**
+   - Image Processing Basics
+   - Feature Extraction
+3. **Computer Vision Algorithms**
+   - Classical Algorithms
+   - Machine Learning Approaches
+4. **Deep Learning in Computer Vision**
+   - Convolutional Neural Networks (CNNs)
+   - Transfer Learning
+5. **Key Applications of Computer Vision**
+   - Image Classification
+   - Object Detection
+   - Image Segmentation
+   - Facial Recognition
+   - Medical Imaging
+6. **Challenges in Computer Vision**
+   - Data Quality and Quantity
+   - Computational Resources
+   - Ethical and Privacy Concerns
+7. **Future Trends in Computer Vision**
+   - Emerging Technologies
+   - Advancements in Algorithms
+8. **Videos: Computer Vision Fundamentals**
+9. **Conclusion**
+10. **Related Content**
+11. **References**
+
+Reference and Details: [Computer Vision Fundamentals](./computer-vision-fundamentals).
 
 ## Time Series Analysis
 
