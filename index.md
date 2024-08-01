@@ -457,27 +457,27 @@ Reference and Details: [Feature Engineering - An Overview](./feature-engineering
 1. **Introduction to Model Tuning**
 2. **Importance of Model Tuning**
 3. **Key Concepts in Model Tuning**
-   - 1. Hyperparameters vs. Parameters
-   - 2. Cross-Validation
+   - Hyperparameters vs. Parameters
+   - Cross-Validation
 4. **Techniques for Model Tuning**
-   - 1. Grid Search
-   - 2. Random Search
-   - 3. Bayesian Optimization
-   - 4. Genetic Algorithms
+   - Grid Search
+   - Random Search
+   - Bayesian Optimization
+   - Genetic Algorithms
 5. **Best Practices in Model Tuning**
-   - 1. Start Simple
-   - 2. Use Cross-Validation
-   - 3. Monitor for Overfitting
-   - 4. Balance Performance and Complexity
+   - Start Simple
+   - Use Cross-Validation
+   - Monitor for Overfitting
+   - Balance Performance and Complexity
 6. **Common Hyperparameters to Tune**
-   - 1. Decision Trees
-   - 2. Support Vector Machines (SVM)
-   - 3. Neural Networks
+   - Decision Trees
+   - Support Vector Machines (SVM)
+   - Neural Networks
 7. **Tools and Libraries for Model Tuning**
-   - 1. Scikit-learn
-   - 2. Keras Tuner
-   - 3. Hyperopt
-   - 4. Optuna
+   - Scikit-learn
+   - Keras Tuner
+   - Hyperopt
+   - Optuna
 8. **Videos: Hyperparameter Optimization with Scikit-learn and Optuna**
 9. **Conclusion**
 10. **Related Content**
