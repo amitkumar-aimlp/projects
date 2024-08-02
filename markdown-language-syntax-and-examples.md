@@ -12,6 +12,7 @@ comments: true
 
 ## Contents:<!-- omit in toc -->
 
+- [How GitHub Pages Converts Markdown to HTML](#how-github-pages-converts-markdown-to-html)
 - [Markdown Language: Syntax and Examples](#markdown-language-syntax-and-examples)
 - [Some Special Features of Markdown Language](#some-special-features-of-markdown-language)
 - [Videos: Learn Markdown in 30 Minutes!](#videos-learn-markdown-in-30-minutes)
@@ -20,9 +21,29 @@ comments: true
 
 {% include reading-time.html %}
 
-## Markdown Language: Syntax and Examples
+## How GitHub Pages Converts Markdown to HTML
 
 ![markdown-flowchart](/assets/markdown/markdown-flowchart.png)
+
+GitHub Pages is a powerful feature provided by GitHub that allows users to host static websites directly from their GitHub repositories. One of the key aspects of this feature is its ability to convert Markdown files into HTML, making it easy for users to create and maintain websites with minimal effort.
+
+When you create a Markdown file in your GitHub repository, GitHub Pages uses a static site generator called Jekyll to convert the Markdown content into HTML. Jekyll is an open-source tool designed specifically for transforming plain text into static websites and blogs. It supports Markdown out of the box, making it an excellent choice for GitHub Pages.
+
+The process begins when you push your Markdown files to a repository configured for GitHub Pages. Jekyll takes over and processes these files according to the settings defined in a `_config.yml` file or by using default settings if none are specified. During this process, Jekyll parses the Markdown syntax and applies any layouts or templates you've defined to create the final HTML files.
+
+Markdown syntax is highly readable and easy to write, with features for headers, lists, links, images, and more. Jekyll converts these elements into their corresponding HTML tags. For instance, a Markdown header defined with `#` will be converted to an HTML `<h1>` tag, and a link written as `[Link Text](URL)` will become an HTML `<a>` tag. This conversion ensures that your content is properly formatted and styled according to web standards.
+
+Additionally, Jekyll supports Liquid templating, allowing you to include dynamic content and logic in your Markdown files. You can use Liquid tags and filters to insert variables, control flow, and iterate over collections, adding a layer of customization and functionality to your static site.
+
+In summary, GitHub Pages simplifies the process of creating static websites by automatically converting Markdown files into HTML using Jekyll. This allows users to focus on writing content in an easy-to-read format while leveraging the power of a static site generator to produce professional-looking web pages.
+
+## Markdown Language: Syntax and Examples
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1tPaS2zv3gWY-spdLk4HRyqHrUle0KQZY/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
 
 Markdown is a lightweight markup language with plain-text formatting syntax designed to make writing on the web easier. It allows writers to format text using simple, intuitive symbols and characters rather than complex HTML tags. For example, headers are created using the `#` symbol, with the number of `#` signs indicating the level of the header (`#` for H1, `##` for H2, and so on). Emphasis can be added to text using asterisks or underscores (`*italic*` or `_italic_` for italics, `**bold**` or `__bold__` for bold). Lists are also straightforward: unordered lists use dashes, plus signs, or asterisks (`-`, `+`, or `*`), while ordered lists use numbers followed by periods (`1.`).
 
@@ -91,23 +112,35 @@ This video provides a comprehensive and easy-to-follow guide to mastering Markdo
 
 ## Related Content
 
-- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples)
-- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide)
-- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide)
-- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison)
-- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide)
-- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison)
-- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization)
-- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview)
+- [Markdown Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples/)
+- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples/)
+- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide/)
+- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide/)
+- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison/)
+- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide/)
+- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison/)
+- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization/)
+- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/)
+- [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/)
+- [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide/)
+- [Ensemble Learning – Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
+- [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview/)
+- [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization/)
+- [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems/)
+- [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals/)
+- [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning/)
+- [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
+- [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
+- [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
 
 ## References
 
-1. [Markdown Language - Syntax and Examples](https://github.com/amitkumar-aimlp/projects/tree/content/markdown-language)
-2. [Markdown - Wikipedia](https://en.wikipedia.org/wiki/Markdown)
-3. [Markdown Guide Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
-4. [IBM Markdown for Jupyter Notebooks](https://www.ibm.com/docs/en/db2-event-store/2.0.0?topic=notebooks-markdown-jupyter-cheatsheet)
-5. [Useful HTML for Jupyter Notebook - Kaggle](https://www.kaggle.com/code/marcovasquez/useful-html-for-jupyter-notebook)
-6. [Learn markdown in 30 minutes](https://www.youtube.com/watch?v=bTVIMt3XllM)
+1. [Markdown - Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+2. [Markdown Guide Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+3. [Useful HTML for Jupyter Notebook - Kaggle](https://www.kaggle.com/code/marcovasquez/useful-html-for-jupyter-notebook)
+4. [Learn markdown in 30 minutes](https://www.youtube.com/watch?v=bTVIMt3XllM)
+5. [Markdown Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
+6. [Table Converter](https://tableconvert.com/)
 
 > ### What we think, we become.
 >
