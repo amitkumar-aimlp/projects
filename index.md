@@ -761,6 +761,60 @@ Reference and Details: [Computer Vision Fundamentals](./computer-vision-fundamen
 
 ## Time Series Analysis
 
+1. **Introduction to Time Series Analysis**
+2. **Key Concepts in Time Series Analysis**
+   - 2.1 Time Series Data
+   - 2.2 Stationarity
+   - 2.3 Trend and Seasonality
+3. **Components of a Time Series**
+   - 3.1 Trend Component
+   - 3.2 Seasonal Component
+   - 3.3 Cyclical Component
+   - 3.4 Irregular Component
+4. **Time Series Decomposition**
+   - 4.1 Additive Model
+   - 4.2 Multiplicative Model
+5. **Time Series Models**
+   - 5.1 Autoregressive (AR) Model
+   - 5.2 Moving Average (MA) Model
+   - 5.3 Autoregressive Integrated Moving Average (ARIMA) Model
+6. **Advanced Time Series Models**
+   - 6.1 Seasonal ARIMA (SARIMA) Model
+   - 6.2 Exponential Smoothing (ETS)
+   - 6.3 Vector Autoregression (VAR)
+7. **Machine Learning and Deep Learning in Time Series Analysis**
+   - 7.1 Machine Learning Models
+   - 7.2 Deep Learning Models
+8. **Feature Engineering for Time Series**
+   - 8.1 Lag Features
+   - 8.2 Rolling Statistics
+   - 8.3 Date-Time Features
+9. **Time Series Cross-Validation**
+   - 9.1 Walk-Forward Validation
+   - 9.2 Time Series Split
+10. **Forecasting Techniques**
+    - 10.1 Short-Term vs. Long-Term Forecasting
+    - 10.2 Evaluation Metrics
+11. **Applications of Time Series Analysis**
+    - 11.1 Financial Market Analysis
+    - 11.2 Economic Forecasting
+    - 11.3 Environmental Monitoring
+    - 11.4 Demand Forecasting
+12. **Tools and Libraries for Time Series Analysis**
+    - 12.1 Python Libraries
+    - 12.2 R Libraries
+13. **Challenges in Time Series Analysis**
+14. **Future Directions in Time Series Analysis**
+    - 14.1 Hybrid Models
+    - 14.2 Real-Time Time Series Analysis
+    - 14.3 Automated Time Series Analysis
+15. **Videos: Modern Time Series Analysis**
+16. **Conclusion**
+17. **Related Content**
+18. **References**
+
+Reference and Details: [Time Series Analysis](./time-series-analysis).
+
 ---
 
 _Published: 2020-01-01; Updated: 2024-05-01_
