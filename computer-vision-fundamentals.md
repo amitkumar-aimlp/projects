@@ -65,7 +65,11 @@ comments: true
 
 ## 1. Introduction to Computer Vision
 
-![Convolutional Neural Networks](assets/computer-vision/convolutional-neural-networks.gif)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1hvLtt68CZ9azj3b7tof2ELKQ_2a6jTQ8/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
 
 Computer Vision is an interdisciplinary field that enables computers to interpret and make decisions based on visual data, replicating human visual perception through the use of algorithms and models.
 
@@ -98,12 +102,6 @@ Computer Vision has evolved from basic image processing techniques to sophistica
 
 To grasp how computer vision systems operate, it is essential to understand their foundational elements.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-
-<iframe src="https://drive.google.com/file/d/1hvLtt68CZ9azj3b7tof2ELKQ_2a6jTQ8/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
-
-</div>
-
 ### Image Processing Basics
 
 - **Pixels and Color Models**: Images are composed of a grid of pixels, each with color values defined in models such as RGB or HSV. Understanding color models helps in tasks like color correction and segmentation.
@@ -132,6 +130,8 @@ Various algorithms are employed to analyze visual data, each with its strengths 
 - **K-Nearest Neighbors (KNN)**: KNN classifies data based on the majority vote of its nearest neighbors in the feature space. It is simple to implement and effective for problems where data distribution is relatively uniform.
 
 ## 4. Deep Learning in Computer Vision
+
+![Convolutional Neural Networks](assets/computer-vision/convolutional-neural-networks.gif)
 
 Deep learning has transformed computer vision, enabling the development of models that achieve state-of-the-art performance on a variety of tasks.
 
@@ -224,23 +224,25 @@ Computer Vision is a transformative field that continues to evolve and expand it
 
 ## 10. Related Content
 
-- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples)
-- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide)
-- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide)
-- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison)
-- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide)
-- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison)
-- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization)
-- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview)
-- [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide)
-- [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide)
-- [Ensemble Learning – Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods)
-- [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview)
-- [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization)
-- [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems)
-- [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals)
-- [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning)
-- [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing)
+- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples/)
+- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide/)
+- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide/)
+- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison/)
+- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide/)
+- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison/)
+- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization/)
+- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/)
+- [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/)
+- [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide/)
+- [Ensemble Learning – Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
+- [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview/)
+- [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization/)
+- [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems/)
+- [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals/)
+- [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning/)
+- [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
+- [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
+- [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
 
 ## 11. References
 
