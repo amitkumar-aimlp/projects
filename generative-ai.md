@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artificial Intelligence and Machine Learning (AIML) Projects
+title: Generative Artificial Intelligence (Gen AI)
 description: Topics Covered - Artificial Intelligence, Machine Learning, Data Science
 author: "Amit Kumar"
 date: "2020-01-01"
@@ -64,4 +64,4 @@ published: true
 8. **Related Content**
 9. **References**
 
-Reference and Details: [Generative Artificial Intelligence](generative-ai/generative-artificial-intelligence.md)
+Reference and Details: [Generative Artificial Intelligence](generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
