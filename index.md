@@ -50,7 +50,7 @@ published: true
 
 ---
 
-- [Generative Artificial Intelligence](./index-1){:target="\_blank"}
+- [Generative Artificial Intelligence](./generative-ai){:target="\_blank"}
 
 ---
 
