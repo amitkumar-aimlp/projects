@@ -64,4 +64,4 @@ published: true
 8. **Related Content**
 9. **References**
 
-Reference and Details: [Generative Artificial Intelligence](generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
+Reference and Details: [Generative Artificial Intelligence](./generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
