@@ -48,6 +48,14 @@ published: true
 - [Computer Vision Fundamentals](#computer-vision-fundamentals)
 - [Time Series Analysis](#time-series-analysis)
 
+---
+
+[Generative Artificial Intelligence](./generative-artificial-intelligence){:target="\_blank"}
+
+<a href="https://amitkumar-aimlp.github.io/projects/generative-artificial-intelligence" target="_blank">Generative Artificial Intelligence</a>
+
+---
+
 {% include reading-time.html %}
 
 ## Markdown Language: Syntax and Examples
