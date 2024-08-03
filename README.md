@@ -27,7 +27,7 @@
 
 ---
 
-- [Generative Artificial Intelligence](./generative-ai){:target="\_blank"}
+- [Generative Artificial Intelligence](https://amitkumar-aimlp.github.io/projects/generative-ai)
 
 ---
 
