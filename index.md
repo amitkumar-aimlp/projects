@@ -25,7 +25,7 @@ tags:
 published: true
 ---
 
-## Contents:<!-- omit in toc -->
+## Contents Overview:<!-- omit in toc -->
 
 - [Markdown Language: Syntax and Examples](#markdown-language-syntax-and-examples)
 - [Python Programming Language: Syntax and Examples](#python-programming-language-syntax-and-examples)
@@ -50,9 +50,7 @@ published: true
 
 ---
 
-[Generative Artificial Intelligence](./generative-artificial-intelligence){:target="\_blank"}
-
-<a href="https://amitkumar-aimlp.github.io/projects/generative-artificial-intelligence" target="_blank">Generative Artificial Intelligence</a>
+- [Generative Artificial Intelligence](./index-1){:target="\_blank"}
 
 ---
 

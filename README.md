@@ -25,6 +25,12 @@
 - [Computer Vision Fundamentals](#computer-vision-fundamentals)
 - [Time Series Analysis](#time-series-analysis)
 
+---
+
+- [Generative Artificial Intelligence](./index-1){:target="\_blank"}
+
+---
+
 ### Markdown Language: Syntax and Examples
 
 1. **Basic Syntax:** Headings, Paragraphs, Line Breaks, Emphasis, Blockquotes, Lists, Code, Horizontal Rules, Links, Images, Escaping Characters, HTML
