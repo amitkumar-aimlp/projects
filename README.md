@@ -2,7 +2,7 @@
 
 ## Topics Covered - Artificial Intelligence, Machine Learning, Data Science<!-- omit in toc -->
 
-## Contents:<!-- omit in toc -->
+## Contents Overview:<!-- omit in toc -->
 
 - [Markdown Language: Syntax and Examples](#markdown-language-syntax-and-examples)
 - [Python Programming Language: Syntax and Examples](#python-programming-language-syntax-and-examples)
