@@ -64,22 +64,25 @@ published: true
 8. **Related Content**
 9. **References**
 
-Reference and Details: [Generative Artificial Intelligence](generative-ai/generative-artificial-intelligence){:target="\_blank"}
+---
 
-Reference and Details: [Generative Artificial Intelligence](/generative-ai/generative-artificial-intelligence){:target="\_blank"}
+1. Reference and Details: [Generative Artificial Intelligence](generative-ai/generative-artificial-intelligence){:target="\_blank"}
+2. Reference and Details: [Generative Artificial Intelligence](/generative-ai/generative-artificial-intelligence){:target="\_blank"}
+3. Reference and Details: [Generative Artificial Intelligence](./generative-ai/generative-artificial-intelligence){:target="\_blank"}
+4. Reference and Details: [Generative Artificial Intelligence](../generative-ai/generative-artificial-intelligence){:target="\_blank"}
 
-Reference and Details: [Generative Artificial Intelligence](./generative-ai/generative-artificial-intelligence){:target="\_blank"}
+---
 
-Reference and Details: [Generative Artificial Intelligence](../generative-ai/generative-artificial-intelligence){:target="\_blank"}
+5. Reference and Details: [Generative Artificial Intelligence](generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
+6. Reference and Details: [Generative Artificial Intelligence](/generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
+7. Reference and Details: [Generative Artificial Intelligence](./generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
+8. Reference and Details: [Generative Artificial Intelligence](../generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
 
-Reference and Details: [Generative Artificial Intelligence](generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
+---
 
-Reference and Details: [Generative Artificial Intelligence](/generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
+9. Reference and Details: [Generative Artificial Intelligence](https://amitkumar-aimlp.github.io/projects/generative-ai/generative-artificial-intelligence){:target="\_blank"}
+10. Reference and Details: [Generative Artificial Intelligence](https://amitkumar-aimlp.github.io/projects/generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
 
-Reference and Details: [Generative Artificial Intelligence](./generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
+---
 
-Reference and Details: [Generative Artificial Intelligence](../generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
-
-Reference and Details: [Generative Artificial Intelligence](https://amitkumar-aimlp.github.io/projects/generative-ai/generative-artificial-intelligence.md){:target="\_blank"}
-
-Reference and Details: [Generative Artificial Intelligence](https://amitkumar-aimlp.github.io/projects/generative-ai/generative-artificial-intelligence){:target="\_blank"}
+Reference and Details: <a href="https://amitkumar-aimlp.github.io/projects/generative-ai/generative-artificial-intelligence" target="_blank">Generative Artificial Intelligence</a>
