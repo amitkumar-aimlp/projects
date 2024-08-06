@@ -412,7 +412,6 @@ Unsupervised learning is a powerful tool in the field of machine learning. It he
 
 ## Related Content
 
-- [Markdown Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples)
 - [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples)
 - [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide)
 - [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide)
