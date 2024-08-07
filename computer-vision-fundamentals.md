@@ -234,14 +234,13 @@ Computer Vision is a transformative field that continues to evolve and expand it
 - [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/)
 - [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/)
 - [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide/)
-- [Ensemble Learning – Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
+- [Ensemble Learning –  Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
 - [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview/)
 - [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization/)
 - [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems/)
 - [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals/)
 - [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning/)
 - [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
-- [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
 - [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
 
 ## 11. References
