@@ -67,7 +67,7 @@ Generative Artificial Intelligence (GAI) is a cutting-edge field within artifici
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
 
-<iframe src="https://drive.google.com/file/d/1puGb16XY2URUObvvwJLdoy5Y9di_eqQz/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/13xWW1Gc49rVkW1N8ep7-0fngoIXfb5yf/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 
 </div>
 

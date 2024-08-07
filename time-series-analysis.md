@@ -84,7 +84,11 @@ comments: true
 
 ## 1. Introduction to Time Series Analysis
 
-![Time series components](assets/time-series-analysis/time-series-components.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1cpTYUBqI2wm61Xzf6L_S8mNx02DMyfHs/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
 
 Time series analysis involves statistical techniques for analyzing time-ordered data points to extract meaningful insights and patterns. It is crucial in various fields such as finance, economics, environmental science, and engineering. The primary goal is to understand the underlying structure of the data and forecast future values. Time series analysis can reveal trends, seasonal patterns, and cyclical movements, providing a comprehensive view of how data evolves over time. This approach is essential for making informed decisions, optimizing processes, and predicting future outcomes.
 
@@ -92,6 +96,8 @@ Time series analysis involves statistical techniques for analyzing time-ordered 
 > Reference and Details: [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
 ## 2. Key Concepts in Time Series Analysis
+
+![Time series components](assets/time-series-analysis/time-series-components.png)
 
 ### 2.1 Time Series Data
 
@@ -366,6 +372,8 @@ These references provide a comprehensive foundation for understanding the princi
 22. [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series)
 23. [Time Series Analysis: Definition, Components, Methods, and Applications](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
 24. [Advanced Time Series Forecasting Methods](https://mlpills.dev/time-series/advanced-time-series-forecasting-methods/)
+25. [11 Classical Time Series Forecasting Methods in Python](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+26. [Time Series Analysis Tutorial with Python](https://www.datacamp.com/tutorial/time-series-analysis-tutorial)
 
 > ### Optimists are right. So are pessimists. It’s up to you to choose which you will be.
 >

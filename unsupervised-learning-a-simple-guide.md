@@ -88,7 +88,11 @@ comments: true
 
 ## Introduction
 
-![Unsupervised Learning - A Simple Guide](assets/unsupervised-learning/unsupervised-learning.jpg)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1JbIO5FPLU1jgEN0vYapUlmqqBnnDM5AK/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
 
 Unsupervised learning is a cornerstone of machine learning that deals with data without labeled responses. Unlike supervised learning, where algorithms are trained on a predefined output, unsupervised learning seeks to understand the underlying structure of the data, identify patterns, and extract meaningful information. This guide will delve into the various aspects of unsupervised learning, including its key concepts, types, popular algorithms, applications, and the tools used to implement these methods.
 
@@ -96,6 +100,8 @@ Unsupervised learning is a cornerstone of machine learning that deals with data 
 > Reference and Details: [Unsupervised Learning Project](https://github.com/amitkumar-aimlp/projects/tree/content/supervised-learning-project)
 
 ## Key Concepts
+
+![Unsupervised Learning - A Simple Guide](assets/unsupervised-learning/unsupervised-learning.jpg)
 
 ### What is Unsupervised Learning?
 
@@ -453,6 +459,7 @@ Unsupervised learning is a powerful tool in the field of machine learning. It he
 18. Hastie, T., Tibshirani, R., Friedman, J. (2009). Unsupervised Learning. In: The Elements of Statistical Learning. Springer Series in Statistics. Springer, New York, NY. https://doi.org/10.1007/978-0-387-84858-7_14
 19. [Unsupervised Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/unsupervised-machine-learning-cheat-sheet)
 20. [Unsupervised Learning: Types, Applications & Advantages](https://databasetown.com/unsupervised-learning-types-applications/)
+21. [Afshine Amidi](https://www.mit.edu/~amidi/)
 
 > ### Whatever we think about and thank about, we bring about.
 >
