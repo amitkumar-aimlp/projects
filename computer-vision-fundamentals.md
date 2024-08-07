@@ -67,7 +67,7 @@ comments: true
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
 
-<iframe src="https://drive.google.com/file/d/1hvLtt68CZ9azj3b7tof2ELKQ_2a6jTQ8/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/16ZisCH_1GOL7DyYdqBxXrpiZXvXV8Gqv/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 
 </div>
 
@@ -276,7 +276,7 @@ Computer Vision is a transformative field that continues to evolve and expand it
 15. **Chollet, F.** (2018). _Deep Learning with Python_. Manning Publications.  
     Introduces deep learning concepts and practical implementations with Python, including computer vision applications.
 16. [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
-17. [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+17. [Afshine Amidi](https://www.mit.edu/~amidi/)
 18. [Spada Indonesia](https://spada.kemdikbud.go.id)
 
 > ### I do not think there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.

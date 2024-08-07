@@ -61,6 +61,12 @@ Applied statistics is the use of statistical techniques to solve real-world prob
 
 ## Key Features of Applied Statistics
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1MrLlySgxqpZ8aYMZlKLF3MEw19tw9XMO/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
+
 ### 1. Data Collection
 
 The foundation of applied statistics is the systematic collection of data. This phase is crucial as the quality of data directly impacts the reliability of statistical analysis.
@@ -322,6 +328,7 @@ Applied statistics is a crucial tool in various fields, providing the methods an
 10. Kirk, R. E. (2013). _Experimental Design: Procedures for the Behavioral Sciences_. SAGE Publications.
 11. [Applied Statistics Is A Way Of Thinking, Not Just A Toolbox](https://www.kdnuggets.com/2015/05/applied-statistics-thinking-not-toolbox.html)
 12. Bartlett, R. (2013). _A Practitioner’s Guide To Business Analytics_. McGraw-Hill
+13. [Afshine Amidi](https://www.mit.edu/~amidi/)
 
 > ### Fear less, hope more, eat less, chew more, whine less, breathe more, talk less, say more, hate less, love more, and good things will be yours.
 >

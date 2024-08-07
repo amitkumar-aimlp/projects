@@ -70,7 +70,12 @@ comments: true
 
 ## Introduction to Pandas
 
-![image-name](/assets/pandas/pandas-for-data-science.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1AHymbC__rNyquCMbWsoJWwKtDkNmTveu/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
+
 Pandas is an open-source Python library that provides high-performance, easy-to-use data structures and data analysis tools. It is a crucial tool for data manipulation and analysis in Python, widely used by data scientists, analysts, and engineers. This article will provide a comprehensive overview of pandas' key features and how they can be leveraged for data analysis and data science.
 
 > [!NOTE]  
@@ -79,6 +84,8 @@ Pandas is an open-source Python library that provides high-performance, easy-to-
 > [Python for Data Analysis](https://github.com/amitkumar-aimlp/python-for-data-analysis).
 
 ## Key Features of Pandas
+
+![Pandas for Data Science](/assets/pandas/pandas-for-data-science.png)
 
 ### Data Structures
 

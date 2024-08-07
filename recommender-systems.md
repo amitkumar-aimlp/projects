@@ -298,6 +298,12 @@ Discover the fundamentals of recommender systems in this engaging video. Learn h
 
 ## 8. Conclusion
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1hovnpm1SD3vLaH4iAVGP4oVD7h7-o6Vq/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
+
 Recommender systems play a crucial role in enhancing user experience by providing personalized content. Despite the challenges, advancements in machine learning and AI continue to improve the accuracy, scalability, and fairness of these systems. Future research will focus on addressing existing limitations and exploring new techniques to further enhance recommendation quality. By leveraging advanced techniques such as deep learning, graph-based methods, and context-aware systems, the next generation of recommender systems will offer even more precise, diverse, and engaging recommendations.
 These systems not only enhance user satisfaction and engagement but also drive business growth by increasing sales, user retention, and overall platform usage. As technology evolves, recommender systems will continue to be an integral part of personalized user experiences across various industries, making our interactions with digital platforms more intuitive and enjoyable.
 

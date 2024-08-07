@@ -28,7 +28,12 @@ comments: true
 
 ## Introduction: Exploring the Versatility of Python
 
-![python-applications](/assets/python/python-applications.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1JoiH_kRsCtoaNmFSHIV1tysgMDczlYlc/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
+
 Python, created by Guido van Rossum and first released in 1991, has become one of the most popular programming languages in the world. Its simplicity, readability, and extensive capabilities have made it a go-to language for both beginners and experienced programmers. Python's philosophy emphasizes code readability and simplicity, which has led to a growing community and a vast ecosystem of libraries and frameworks. This article explores Python's versatility across various domains, including web development, data science, automation, scientific computing, and the Internet of Things (IoT).
 
 > [!NOTE]  
@@ -36,7 +41,8 @@ Python, created by Guido van Rossum and first released in 1991, has become one o
 
 ## Key Features of Python
 
-![python-standard-type-hierarchy](/assets/python/python-standard-type-hierarchy.png)
+![Python standard type hierarchy](/assets/python/python-standard-type-hierarchy.png)
+
 Python's popularity can be attributed to several key features:
 
 - **Simple and Readable Syntax**: Python's syntax is clean and easy to understand, making it an excellent choice for beginners. The language's design promotes writing clear and logical code.
@@ -54,6 +60,8 @@ Python is a popular choice for web development due to its powerful frameworks an
 - **Simplifying Backend Development**: Python's clear syntax and extensive libraries make it easier to develop backend services. The frameworks provide built-in features for database interaction, URL routing, authentication, and more, speeding up the development process.
 
 ## Python for Data Science and Machine Learning
+
+![Python applications](/assets/python/python-applications.png)
 
 Python has become the de facto language for data science and machine learning.
 

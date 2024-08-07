@@ -53,10 +53,17 @@ comments: true
 
 ## Introduction
 
-![pandas-vs-sql](/assets/pandas/pandas-vs-sql.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1X73tPCm0KWxl_guiyG0AuPVO9gF3gkD8/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
+
 In the realm of data manipulation and analysis, Pandas and SQL stand as stalwarts in their respective domains. Pandas, a Python library, offers powerful tools for data manipulation and analysis, while SQL (Structured Query Language) serves as the standard language for managing relational databases. This article delves into a detailed comparison of Pandas and SQL, exploring their features, strengths, and ideal use cases.
 
 ## Data Structures
+
+![Pandas Vs SQL](/assets/pandas/pandas-vs-sql.png)
 
 ### Pandas<!-- omit in toc -->
 

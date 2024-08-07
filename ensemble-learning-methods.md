@@ -36,7 +36,11 @@ comments: true
 
 ## Introduction
 
-![Bias Variance Tradeoff](assets/ensemble-learning/bias-variance-tradeoff.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1mvjXGPMcz6J-9ng-aeZMEo24GhXknGF7/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
 
 Ensemble learning is a machine learning technique where multiple models are combined to enhance overall predictive performance. The idea is that aggregating the predictions from various models can lead to better accuracy, robustness, and generalization compared to any single model. Ensemble methods are particularly useful when individual models exhibit different strengths and weaknesses, allowing for a more balanced and accurate final prediction.
 
@@ -137,6 +141,8 @@ Ensemble learning is a machine learning technique where multiple models are comb
 **AdaBoost**: Focuses on improving the performance of weak learners by adjusting the weights of misclassified samples. AdaBoost is known for its simplicity and effectiveness in combining weak models into a strong ensemble.
 
 ## Benefits of Ensemble Learning
+
+![Bias Variance Tradeoff](assets/ensemble-learning/bias-variance-tradeoff.png)
 
 - **Improved Accuracy**: Ensemble methods often achieve higher accuracy by combining predictions from multiple models. This collective decision-making process helps in capturing different aspects of the data and reducing errors.
 - **Robustness**: By aggregating models, ensembles are less sensitive to fluctuations and noise in the data. This robustness makes ensemble methods suitable for real-world applications where data can be noisy or incomplete.

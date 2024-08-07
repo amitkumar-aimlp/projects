@@ -66,6 +66,12 @@ To start using Matplotlib, you need to install it. The simplest way to install M
 
 ## Basic Plotting
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1xSiRtlthVBUY2uBfxDuCOwgn0K0aCZOv/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
+
 Matplotlib supports a variety of basic plotting techniques that are essential for data visualization. These plots form the foundation of data analysis and presentation.
 
 - **Creating a Simple Plot**
@@ -189,6 +195,7 @@ This comprehensive article covers the essential features of Matplotlib, providin
 - [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
 - [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
 - [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
+- [Datacamp Cheat Sheets](https://www.datacamp.com/cheat-sheet)
 
 ## References
 
