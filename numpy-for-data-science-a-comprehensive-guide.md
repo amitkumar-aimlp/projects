@@ -42,13 +42,20 @@ comments: true
 
 ## Introduction to NumPy
 
-![array-programming-with-numpy](/assets/numpy/array-programming-with-numpy.png)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1EcYSAsXlJq5syHjKgw_o11-sl-6L83Bp/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
+
 NumPy, short for Numerical Python, is a foundational package for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently. This article explores the key features, applications, and best practices of NumPy, making it an essential read for anyone involved in scientific computing, data analysis, or machine learning with Python.
 
 > [!NOTE]  
 > [Python Data Science Handbook](https://github.com/amitkumar-aimlp/PythonDataScienceHandbook).
 
 ## Key Features of NumPy
+
+![Array programming with NumPy](/assets/numpy/array-programming-with-numpy.png)
 
 ### Arrays and Data Structures
 
@@ -136,14 +143,24 @@ NumPy remains indispensable in the Python ecosystem for its ability to handle la
 
 ## Related Content
 
-- [Markdown Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples)
-- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples)
-- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide)
-- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison)
-- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide)
-- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison)
-- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization)
-- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview)
+- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples/)
+- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide/)
+- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison/)
+- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide/)
+- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison/)
+- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization/)
+- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/)
+- [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/)
+- [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide/)
+- [Ensemble Learning –  Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
+- [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview/)
+- [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization/)
+- [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems/)
+- [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals/)
+- [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning/)
+- [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
+- [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
+- [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
 
 ## References
 
@@ -152,6 +169,7 @@ NumPy remains indispensable in the Python ecosystem for its ability to handle la
 3. [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 4. [NumPy – Wikipedia](https://en.wikipedia.org/wiki/NumPy)
 5. [Array Programming with NumPy](https://rdcu.be/dMKZD)
+6. [Datacamp Cheat Sheets](https://www.datacamp.com/cheat-sheet)
 
 > ### One can choose to go back toward safety or forward toward growth. Growth must be chosen again and again; fear must be overcome again and again.
 >

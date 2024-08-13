@@ -129,17 +129,17 @@ In the realm of data processing and analysis, two powerful tools have emerged as
 
 This table outlines the main features and differences between Pandas and PySpark, helping readers quickly grasp the key distinctions between the two tools.
 
-| Feature / Aspect                   | Pandas                                                                | PySpark                                                                                             |
-| ---------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Core Concepts**                  | Developed for data manipulation and analysis in Python.               | Python API for distributed computing with Apache Spark.                                             |
-| **Performance and Scalability**    | In-memory processing; suitable for small to medium-sized datasets.    | Distributed computing across clusters; handles large-scale data.                                    |
-| **Data Structures**                | DataFrame, Series                                                     | DataFrame, RDD                                                                                      |
-| **Ease of Use and Learning Curve** | Intuitive syntax, rich built-in functions                             | Steeper learning curve, requires understanding of distributed computing                             |
-| **Data Handling and Manipulation** | Powerful data manipulation, supports indexing, slicing, and alignment | Distributed data processing, transformations on RDDs and DataFrames                                 |
-| **Integration and Ecosystem**      | Strong integration with Python libraries                              | Part of Apache Spark ecosystem, integrates with Hadoop                                              |
-| **Performance Optimization**       | Limited by single-machine memory; optimized vectorized operations     | Optimized for distributed computing, Catalyst optimizer, Apache Arrow for in-memory computation     |
-| **Use Cases**                      | EDA, small to medium-scale data manipulation, prototyping ML models   | Large-scale data processing, ETL operations, real-time stream processing, machine learning at scale |
-| **Community and Support**          | Large and active community, extensive documentation                   | Growing community, strong support from Apache Spark ecosystem                                       |
+| Feature / Aspect                      | Pandas                                        | PySpark                                          |
+|---------------------------------------|-----------------------------------------------|--------------------------------------------------|
+| **Core Concepts**                     | Developed for data manipulation and analysis in Python. | Python API for distributed computing with Apache Spark. |
+| **Performance and Scalability**       | In-memory processing; suitable for small to medium-sized datasets. | Distributed computing across clusters; handles large-scale data. |
+| **Data Structures**                   | DataFrame, Series                             | DataFrame, RDD                                    |
+| **Ease of Use and Learning Curve**    | Intuitive syntax, rich built-in functions     | Steeper learning curve, requires understanding of distributed computing |
+| **Data Handling and Manipulation**    | Powerful data manipulation, supports indexing, slicing, and alignment | Distributed data processing, transformations on RDDs and DataFrames |
+| **Integration and Ecosystem**         | Strong integration with Python libraries      | Part of Apache Spark ecosystem, integrates with Hadoop |
+| **Performance Optimization**          | Limited by single-machine memory; optimized vectorized operations | Optimized for distributed computing, Catalyst optimizer, Apache Arrow for in-memory computation |
+| **Use Cases**                         | EDA, small to medium-scale data manipulation, prototyping ML models | Large-scale data processing, ETL operations, real-time stream processing, machine learning at scale |
+| **Community and Support**             | Large and active community, extensive documentation | Growing community, strong support from Apache Spark ecosystem |
 
 ## Conclusion
 
@@ -147,14 +147,24 @@ Pandas and PySpark each offer unique advantages tailored to different data proce
 
 ## Related Content
 
-- [Markdown Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples)
-- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples)
-- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide)
-- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide)
-- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison)
-- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide)
-- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization)
-- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview)
+- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples/)
+- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide/)
+- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide/)
+- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison/)
+- [PySpark Using Databricks: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pyspark-using-databricks-a-comprehensive-guide/)
+- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization/)
+- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/)
+- [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/)
+- [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide/)
+- [Ensemble Learning –  Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
+- [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview/)
+- [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization/)
+- [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems/)
+- [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals/)
+- [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning/)
+- [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
+- [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
+- [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
 
 ## References
 

@@ -67,7 +67,7 @@ comments: true
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
 
-<iframe src="https://drive.google.com/file/d/1hvLtt68CZ9azj3b7tof2ELKQ_2a6jTQ8/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/16ZisCH_1GOL7DyYdqBxXrpiZXvXV8Gqv/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
 
 </div>
 
@@ -234,14 +234,13 @@ Computer Vision is a transformative field that continues to evolve and expand it
 - [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/)
 - [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/)
 - [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide/)
-- [Ensemble Learning – Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
+- [Ensemble Learning –  Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
 - [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview/)
 - [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization/)
 - [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems/)
 - [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals/)
 - [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning/)
 - [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
-- [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
 - [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
 
 ## 11. References
@@ -277,7 +276,7 @@ Computer Vision is a transformative field that continues to evolve and expand it
 15. **Chollet, F.** (2018). _Deep Learning with Python_. Manning Publications.  
     Introduces deep learning concepts and practical implementations with Python, including computer vision applications.
 16. [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
-17. [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+17. [Afshine Amidi](https://www.mit.edu/~amidi/)
 18. [Spada Indonesia](https://spada.kemdikbud.go.id)
 
 > ### I do not think there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.

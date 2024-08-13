@@ -49,13 +49,20 @@ comments: true
 
 ## Introduction
 
-![apache-spark-python-pyspark](/assets/pyspark/apache-spark-python-pyspark.jpg)
+![Apache Spark, Python and PySpark](/assets/pyspark/apache-spark-python-pyspark.jpg)
+
 In today's data-driven world, the ability to process and analyze large datasets efficiently is crucial. PySpark, the Python API for Apache Spark, offers a powerful framework for big data processing and analytics. When combined with Databricks, a cloud-based platform optimized for Apache Spark, the capabilities expand further, providing a seamless and scalable environment for data science and engineering tasks. This guide covers the essential features and functionalities of using PySpark within Databricks, offering insights into setup, data processing, machine learning, performance optimization, collaboration, and more.
 
 > [!NOTE]  
 > [PySpark: The Definitive Guide](https://github.com/amitkumar-aimlp/Spark-The-Definitive-Guide).
 
 ## Setting Up PySpark in Databricks
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+
+<iframe src="https://drive.google.com/file/d/1T0arvgBg-u7ToVHTKW9QgWY1mA17B107/preview" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen></iframe>
+
+</div>
 
 ### Creating a Databricks Account
 
@@ -114,7 +121,7 @@ In today's data-driven world, the ability to process and analyze large datasets 
 
 ### MLlib Overview
 
-![apache-spark-components-diagram](assets/pyspark/apache-spark-components-diagram.gif)
+![Apache Spark components diagram](assets/pyspark/apache-spark-components-diagram.gif)
 
 - **Introduction to Spark’s machine learning library:** MLlib is Spark’s scalable machine learning library. It provides tools for classification, regression, clustering, collaborative filtering, and more.
 - **Pipeline API:** The Pipeline API helps streamline machine learning workflows by combining multiple stages (data preprocessing, feature engineering, model training) into a single pipeline.
@@ -139,7 +146,7 @@ In today's data-driven world, the ability to process and analyze large datasets 
 
 ### Understanding Spark Internals
 
-![spark-pyspark-comparison](assets/pyspark/spark-pyspark-comparison.png)
+![Spark and PySpark Comparison](assets/pyspark/spark-pyspark-comparison.png)
 
 - **Spark architecture:** Spark’s architecture comprises a driver and executors. The driver coordinates the execution of tasks, while executors perform computations and store data.
 - **DAG (Directed Acyclic Graph) and task execution:** Spark constructs a DAG of stages and tasks for each job. Understanding the DAG helps optimize job execution and resource utilization.
@@ -171,7 +178,7 @@ In today's data-driven world, the ability to process and analyze large datasets 
 
 ### Integration with Other Tools
 
-![apache-spark-streaming-ecosystem-diagram](assets/pyspark/apache-spark-streaming-ecosystem-diagram.png)
+![Apache Spark Streaming Ecosystem Diagram](assets/pyspark/apache-spark-streaming-ecosystem-diagram.png)
 
 - **BI tools:** Connect Databricks with BI tools like Tableau and Power BI to create interactive reports and dashboards. Use the JDBC or ODBC connectors provided by Databricks for seamless integration.
 - **Data integration tools:** Integrate Databricks with data integration platforms like Apache Nifi, Talend, and Informatica. These tools help streamline data ingestion, transformation, and loading processes.
@@ -195,14 +202,24 @@ PySpark, combined with Databricks, offers a robust and scalable solution for big
 
 ## Related Content
 
-- [Markdown Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/markdown-language-syntax-and-examples)
-- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples)
-- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide)
-- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide)
-- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison)
-- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison)
-- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization)
-- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview)
+- [Python Programming Language Syntax and Examples](https://amitkumar-aimlp.github.io/projects/python-programming-language-syntax-and-examples/)
+- [NumPy for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/numpy-for-data-science-a-comprehensive-guide/)
+- [Pandas for Data Science: A Comprehensive Guide](https://amitkumar-aimlp.github.io/projects/pandas-for-data-science-a-comprehensive-guide/)
+- [Pandas Vs. SQL: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-sql-a-comprehensive-comparison/)
+- [Pandas Vs. PySpark: A Comprehensive Comparison](https://amitkumar-aimlp.github.io/projects/pandas-vs-pyspark-a-comprehensive-comparison/)
+- [Matplotlib for Data Visualization](https://amitkumar-aimlp.github.io/projects/matplotlib-for-data-visualization/)
+- [Applied Statistics: An Overview](https://amitkumar-aimlp.github.io/projects/applied-statistics-an-overview/)
+- [Supervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/supervised-learning-a-simple-guide/)
+- [Unsupervised Learning – A Simple Guide](https://amitkumar-aimlp.github.io/projects/unsupervised-learning-a-simple-guide/)
+- [Ensemble Learning –  Methods](https://amitkumar-aimlp.github.io/projects/ensemble-learning-methods/)
+- [Feature Engineering - An Overview](https://amitkumar-aimlp.github.io/projects/feature-engineering-an-overview/)
+- [Hyperparameter Optimization](https://amitkumar-aimlp.github.io/projects/hyperparameter-optimization/)
+- [Recommender Systems](https://amitkumar-aimlp.github.io/projects/recommender-systems/)
+- [Deep Learning Fundamentals](https://amitkumar-aimlp.github.io/projects/deep-learning-fundamentals/)
+- [Semi-supervised Learning](https://amitkumar-aimlp.github.io/projects/semi-supervised-learning/)
+- [Natural Language Processing](https://amitkumar-aimlp.github.io/projects/natural-language-processing/)
+- [Computer Vision Fundamentals](https://amitkumar-aimlp.github.io/projects/computer-vision-fundamentals/)
+- [Time Series Analysis](https://amitkumar-aimlp.github.io/projects/time-series-analysis/)
 
 ## References
 
@@ -218,6 +235,7 @@ PySpark, combined with Databricks, offers a robust and scalable solution for big
 10. [Integrating Databricks with Other Tools - Guide to connecting Databricks with BI tools, data integration platforms, and external services. Available at: Databricks Integrations](https://docs.databricks.com/integrations/index.html)
 11. [Databricks Connect - Documentation on using Databricks Connect to run PySpark code from local IDEs and interact with remote clusters. Available at: Databricks Connect](https://docs.databricks.com/dev-tools/databricks-connect.html)
 12. [Best Resources to Learn Spark](https://www.mltut.com/best-resources-to-learn-spark/)
+13. [Datacamp Cheat Sheets](https://www.datacamp.com/cheat-sheet)
 
 > ### What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
