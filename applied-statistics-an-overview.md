@@ -58,6 +58,8 @@ Applied statistics is the use of statistical techniques to solve real-world prob
 
 > [!NOTE]  
 > Reference and Details: [Applied Statistics Project](https://github.com/amitkumar-aimlp/projects/tree/content/applied-statistics)
+>
+> Reference and Details: [Online Statistics Education](https://onlinestatbook.com/2/index.html)
 
 ## Key Features of Applied Statistics
 
