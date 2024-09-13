@@ -2,6 +2,11 @@
 
 ## Topics Covered - Artificial Intelligence, Machine Learning, Data Science<!-- omit in toc -->
 
+> [!NOTE] 
+> [AIML Projects - Tabular Format](https://github.com/amitkumar-aimlp/projects/wiki/AIML-Projects)
+> 
+> [AIML Certifications -Tabular Format](https://github.com/amitkumar-aimlp/projects/wiki/Certifications)
+
 ## Contents Overview:<!-- omit in toc -->
 
 - [Markdown Language: Syntax and Examples](#markdown-language-syntax-and-examples)
